@@ -1,0 +1,494 @@
+{
+    "dialogue_id": "15_00068",
+    "services": [
+      "Flights_1"
+    ],
+    "turns": [
+      {
+        "frames": [
+          {
+            "actions": [
+              {
+                "act": "INFORM",
+                "canonical_values": [
+                  "Delta Airlines"
+                ],
+                "slot": "airlines",
+                "values": [
+                  "Delta Airlines"
+                ]
+              },
+              {
+                "act": "INFORM",
+                "canonical_values": [
+                  "Economy"
+                ],
+                "slot": "seating_class",
+                "values": [
+                  "Economy"
+                ]
+              },
+              {
+                "act": "INFORM_INTENT",
+                "canonical_values": [
+                  "SearchOnewayFlight"
+                ],
+                "slot": "intent",
+                "values": [
+                  "SearchOnewayFlight"
+                ]
+              }
+            ],
+            "service": "Flights_1",
+            "slots": [],
+            "state": {
+              "active_intent": "SearchOnewayFlight",
+              "requested_slots": [],
+              "slot_values": {
+                "airlines": [
+                  "Delta Airlines"
+                ],
+                "seating_class": [
+                  "Economy"
+                ]
+              }
+            }
+          }
+        ],
+        "speaker": "USER",
+        "utterance": "Can you find me one-way Economy class flight tickets on Delta Airlines?"
+      },
+      {
+        "frames": [
+          {
+            "actions": [
+              {
+                "act": "REQUEST",
+                "canonical_values": [],
+                "slot": "origin_city",
+                "values": []
+              },
+              {
+                "act": "REQUEST",
+                "canonical_values": [],
+                "slot": "destination_city",
+                "values": []
+              }
+            ],
+            "service": "Flights_1",
+            "slots": []
+          }
+        ],
+        "speaker": "SYSTEM",
+        "utterance": "Sure. Where are you going to and where will you be flying from?"
+      },
+      {
+        "frames": [
+          {
+            "actions": [
+              {
+                "act": "INFORM",
+                "canonical_values": [
+                  "Philadelphia"
+                ],
+                "slot": "destination_city",
+                "values": [
+                  "Philadelphia"
+                ]
+              },
+              {
+                "act": "INFORM",
+                "canonical_values": [
+                  "Paris"
+                ],
+                "slot": "origin_city",
+                "values": [
+                  "Paris, France"
+                ]
+              }
+            ],
+            "service": "Flights_1",
+            "slots": [
+              {
+                "exclusive_end": 53,
+                "slot": "destination_city",
+                "start": 41
+              },
+              {
+                "exclusive_end": 37,
+                "slot": "origin_city",
+                "start": 24
+              }
+            ],
+            "state": {
+              "active_intent": "SearchOnewayFlight",
+              "requested_slots": [],
+              "slot_values": {
+                "airlines": [
+                  "Delta Airlines"
+                ],
+                "destination_city": [
+                  "Philadelphia"
+                ],
+                "origin_city": [
+                  "Paris, France"
+                ],
+                "seating_class": [
+                  "Economy"
+                ]
+              }
+            }
+          }
+        ],
+        "speaker": "USER",
+        "utterance": "I'll be travelling from Paris, France to Philadelphia."
+      },
+      {
+        "frames": [
+          {
+            "actions": [
+              {
+                "act": "REQUEST",
+                "canonical_values": [],
+                "slot": "departure_date",
+                "values": []
+              }
+            ],
+            "service": "Flights_1",
+            "slots": []
+          }
+        ],
+        "speaker": "SYSTEM",
+        "utterance": "Do you have any departure dates in mind?"
+      },
+      {
+        "frames": [
+          {
+            "actions": [
+              {
+                "act": "INFORM",
+                "canonical_values": [
+                  "2019-03-10"
+                ],
+                "slot": "departure_date",
+                "values": [
+                  "March 10th"
+                ]
+              }
+            ],
+            "service": "Flights_1",
+            "slots": [
+              {
+                "exclusive_end": 31,
+                "slot": "departure_date",
+                "start": 21
+              }
+            ],
+            "state": {
+              "active_intent": "SearchOnewayFlight",
+              "requested_slots": [],
+              "slot_values": {
+                "airlines": [
+                  "Delta Airlines"
+                ],
+                "departure_date": [
+                  "March 10th"
+                ],
+                "destination_city": [
+                  "Philadelphia"
+                ],
+                "origin_city": [
+                  "Paris, France"
+                ],
+                "seating_class": [
+                  "Economy"
+                ]
+              }
+            }
+          }
+        ],
+        "speaker": "USER",
+        "utterance": "I'll be departing on March 10th."
+      },
+      {
+        "frames": [
+          {
+            "actions": [
+              {
+                "act": "OFFER",
+                "canonical_values": [
+                  "Delta Airlines"
+                ],
+                "slot": "airlines",
+                "values": [
+                  "Delta Airlines"
+                ]
+              },
+              {
+                "act": "OFFER",
+                "canonical_values": [
+                  "17:35"
+                ],
+                "slot": "outbound_departure_time",
+                "values": [
+                  "5:35 pm"
+                ]
+              },
+              {
+                "act": "OFFER",
+                "canonical_values": [
+                  "1"
+                ],
+                "slot": "number_stops",
+                "values": [
+                  "1"
+                ]
+              },
+              {
+                "act": "OFFER",
+                "canonical_values": [
+                  "364"
+                ],
+                "slot": "price",
+                "values": [
+                  "$364"
+                ]
+              }
+            ],
+            "service": "Flights_1",
+            "service_call": {
+              "method": "SearchOnewayFlight",
+              "parameters": {
+                "airlines": "Delta Airlines",
+                "departure_date": "2019-03-10",
+                "destination_city": "Philadelphia",
+                "origin_city": "Paris",
+                "seating_class": "Economy"
+              }
+            },
+            "service_results": [
+              {
+                "airlines": "Delta Airlines",
+                "departure_date": "2019-03-10",
+                "destination_airport": "PHL International Airport",
+                "destination_city": "Philadelphia",
+                "number_stops": "1",
+                "origin_airport": "Charles de Gaulle International Airport",
+                "origin_city": "Paris",
+                "outbound_arrival_time": "00:51",
+                "outbound_departure_time": "17:35",
+                "passengers": "1",
+                "price": "364",
+                "refundable": "False",
+                "seating_class": "Economy"
+              }
+            ],
+            "slots": [
+              {
+                "exclusive_end": 55,
+                "slot": "outbound_departure_time",
+                "start": 48
+              },
+              {
+                "exclusive_end": 89,
+                "slot": "price",
+                "start": 85
+              }
+            ]
+          }
+        ],
+        "speaker": "SYSTEM",
+        "utterance": "There is a Delta Airlines flight that leaves at 5:35 pm, has 1 stop and is priced at $364."
+      },
+      {
+        "frames": [
+          {
+            "actions": [
+              {
+                "act": "SELECT",
+                "canonical_values": [],
+                "slot": "",
+                "values": []
+              }
+            ],
+            "service": "Flights_1",
+            "slots": [],
+            "state": {
+              "active_intent": "SearchOnewayFlight",
+              "requested_slots": [],
+              "slot_values": {
+                "airlines": [
+                  "Delta Airlines"
+                ],
+                "departure_date": [
+                  "March 10th"
+                ],
+                "destination_city": [
+                  "Philadelphia"
+                ],
+                "origin_city": [
+                  "Paris, France"
+                ],
+                "outbound_departure_time": [
+                  "5:35 pm"
+                ],
+                "seating_class": [
+                  "Economy"
+                ]
+              }
+            }
+          }
+        ],
+        "speaker": "USER",
+        "utterance": "That sounds like a good flight to me."
+      },
+      {
+        "frames": [
+          {
+            "actions": [
+              {
+                "act": "OFFER_INTENT",
+                "canonical_values": [
+                  "ReserveOnewayFlight"
+                ],
+                "slot": "intent",
+                "values": [
+                  "ReserveOnewayFlight"
+                ]
+              }
+            ],
+            "service": "Flights_1",
+            "slots": []
+          }
+        ],
+        "speaker": "SYSTEM",
+        "utterance": "Do you want me to buy tickets for you?"
+      },
+      {
+        "frames": [
+          {
+            "actions": [
+              {
+                "act": "NEGATE_INTENT",
+                "canonical_values": [],
+                "slot": "",
+                "values": []
+              }
+            ],
+            "service": "Flights_1",
+            "slots": [],
+            "state": {
+              "active_intent": "NONE",
+              "requested_slots": [],
+              "slot_values": {
+                "airlines": [
+                  "Delta Airlines"
+                ],
+                "departure_date": [
+                  "March 10th"
+                ],
+                "destination_city": [
+                  "Philadelphia"
+                ],
+                "origin_city": [
+                  "Paris, France"
+                ],
+                "outbound_departure_time": [
+                  "5:35 pm"
+                ],
+                "seating_class": [
+                  "Economy"
+                ]
+              }
+            }
+          }
+        ],
+        "speaker": "USER",
+        "utterance": "No. Hold on. Not now."
+      },
+      {
+        "frames": [
+          {
+            "actions": [
+              {
+                "act": "REQ_MORE",
+                "canonical_values": [],
+                "slot": "",
+                "values": []
+              }
+            ],
+            "service": "Flights_1",
+            "slots": []
+          }
+        ],
+        "speaker": "SYSTEM",
+        "utterance": "Can I assist you with anything else?"
+      },
+      {
+        "frames": [
+          {
+            "actions": [
+              {
+                "act": "NEGATE",
+                "canonical_values": [],
+                "slot": "",
+                "values": []
+              },
+              {
+                "act": "THANK_YOU",
+                "canonical_values": [],
+                "slot": "",
+                "values": []
+              }
+            ],
+            "service": "Flights_1",
+            "slots": [],
+            "state": {
+              "active_intent": "NONE",
+              "requested_slots": [],
+              "slot_values": {
+                "airlines": [
+                  "Delta Airlines"
+                ],
+                "departure_date": [
+                  "March 10th"
+                ],
+                "destination_city": [
+                  "Philadelphia"
+                ],
+                "origin_city": [
+                  "Paris, France"
+                ],
+                "outbound_departure_time": [
+                  "5:35 pm"
+                ],
+                "seating_class": [
+                  "Economy"
+                ]
+              }
+            }
+          }
+        ],
+        "speaker": "USER",
+        "utterance": "No. Thank you for the information."
+      },
+      {
+        "frames": [
+          {
+            "actions": [
+              {
+                "act": "GOODBYE",
+                "canonical_values": [],
+                "slot": "",
+                "values": []
+              }
+            ],
+            "service": "Flights_1",
+            "slots": []
+          }
+        ],
+        "speaker": "SYSTEM",
+        "utterance": "Have a great day!"
+      }
+    ]
+  }
