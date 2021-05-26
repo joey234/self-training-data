@@ -1,0 +1,2312 @@
+B-city I-city O O O B-timeRange I-timeRange
+O O O O B-condition_description B-timeRange O
+O O O O B-condition_description O
+O O B-condition_description O O B-city I-city B-state B-timeRange I-timeRange
+B-country O O
+O O O O O O B-city
+O O O O O B-condition_description
+O O B-movie_name I-movie_name
+O O O O B-condition_description O I-timeRange
+O B-condition_temperature O O O B-city B-timeRange I-timeRange O B-timeRange I-timeRange
+O O O O O O B-timeRange
+O O O O B-timeRange I-timeRange I-timeRange O B-city B-timeRange B-timeRange
+O O O O B-condition_description O B-city O B-timeRange
+O O O B-timeRange I-timeRange I-timeRange O O O O B-timeRange
+O O O O O B-timeRange O B-timeRange
+O O O O B-condition_description B-timeRange I-timeRange
+O O O B-condition_description B-timeRange
+O B-timeRange I-timeRange O O B-city
+O O O O O O B-city O B-timeRange
+O O B-condition_description B-timeRange
+O O O O B-condition_description B-timeRange
+O O O O O B-condition_description O B-timeRange
+O O O O B-facility B-timeRange
+O O O O O O O B-timeRange
+O O B-condition_description B-timeRange
+O O O O O B-city
+O O O O O O O B-condition_description B-timeRange
+O O O B-spatial_relation O B-timeRange
+O O O O B-spatial_relation O O B-timeRange
+O O O O O O B-timeRange O B-country
+O O B-country I-country O B-timeRange
+O O O B-timeRange O B-city I-city I-city I-city B-timeRange B-timeRange
+O O B-timeRange
+O O O O O O O I-timeRange I-timeRange O B-city O O B-timeRange
+O O O O O O B-state B-timeRange I-timeRange I-timeRange I-timeRange
+O O O O O O B-timeRange
+O O O O O B-condition_description B-timeRange
+O B-condition_temperature O O O O O B-timeRange I-timeRange
+O O B-condition_description O B-timeRange I-timeRange
+O O O O B-object_type B-timeRange
+O O B-condition_description O O O B-timeRange
+O O B-condition_description O O O O I-timeRange
+O O O O O O B-condition_description B-timeRange
+O O B-timeRange
+O O O O B-timeRange I-movie_name O B-timeRange O B-state I-state
+O O O B-condition_description O B-city
+O O O O O O O B-state
+O B-condition_temperature O O O B-country B-timeRange I-timeRange I-timeRange
+O O O I-object_name I-object_name
+O O B-condition_description
+O O O O O B-city O B-timeRange
+O O O B-condition_description B-timeRange
+O O O B-facility B-timeRange
+O B-timeRange O B-city I-timeRange
+O B-condition_temperature O O B-spatial_relation B-city B-timeRange O B-timeRange I-timeRange
+O O O O O B-timeRange
+O O O O O B-condition_description O B-timeRange
+B-condition_description O O B-timeRange
+O O O B-restaurant_name O O
+O B-timeRange O I-timeRange I-timeRange O O O O O B-condition_description
+O O O B-timeRange
+O O O O O O B-condition_description
+B-condition_description O O B-city B-timeRange I-timeRange O
+O B-condition_description O O O O B-city
+O O O B-timeRange I-timeRange I-timeRange I-timeRange B-current_location
+B-condition_temperature O O B-timeRange
+O O O B-condition_temperature O B-timeRange I-timeRange B-timeRange
+O O O O B-condition_description O
+O O O O O B-state O B-timeRange I-timeRange
+O O O O O O O B-timeRange
+O B-timeRange I-timeRange B-timeRange I-timeRange
+O O O O O B-city I-city
+O O O O O O O B-timeRange
+B-timeRange I-timeRange O O
+O O O O O O B-condition_description O B-state I-state I-state
+O O B-condition_description O O B-timeRange
+O O O O O B-city B-timeRange
+O O O O O O B-timeRange
+O O O O O B-timeRange
+O O O B-party_size_description I-party_size_description O B-timeRange O O B-facility
+O O B-condition_description O B-state I-state
+O O O B-condition_description O B-condition_description B-timeRange
+O O O I-timeRange O O
+O O O O O B-timeRange I-timeRange O B-city I-city
+O B-movie_name I-movie_name O I-movie_name I-movie_name B-timeRange
+O O O O B-city I-city B-state
+O O O B-object_name I-object_name
+O B-condition_temperature O O O B-country B-timeRange O B-state
+O O B-condition_description
+O O O O B-served_dish O
+O O O O O O O O B-city I-city O B-timeRange
+O O O O O O B-condition_temperature B-timeRange
+O O O B-condition_temperature O O B-timeRange
+O O O B-timeRange O O O B-timeRange
+O O O O O B-city I-city O O O B-timeRange
+O O O O O B-city B-state O O B-timeRange
+O O O O B-condition_description O O B-state I-state
+O O O O B-entity_name B-timeRange
+O O O B-timeRange B-timeRange O
+O O O O I-movie_name I-movie_name B-timeRange
+O O O O O O O O B-city
+O O O O O O O O B-timeRange
+O O O O O O O B-timeRange I-timeRange O B-timeRange I-timeRange
+O O B-condition_temperature B-timeRange
+O O O O O O B-timeRange
+O O O O O O O B-country I-country
+O O O O B-spatial_relation
+O O O O B-state O B-timeRange
+O O O O O 0 I-timeRange
+O O B-timeRange O O
+O B-timeRange O O O O O O
+O O O B-condition_description O O O B-state
+O O O O O O O O O B-timeRange
+O O O O O O O O B-city B-state B-spatial_relation B-timeRange O B-timeRange I-timeRange
+O O O O O O O B-timeRange
+O O O O O B-city O B-timeRange
+O O O O O B-condition_temperature O O O B-condition_temperature B-timeRange
+O O B-condition_description O O O O B-state
+O O O O O O B-country B-timeRange I-timeRange
+O O O O O O B-timeRange I-timeRange I-timeRange
+O B-condition_description O O O O O B-timeRange
+O O O B-condition_description O O B-timeRange
+O O O B-entity_name I-entity_name O O O B-playlist
+O O O B-condition_description B-timeRange
+O B-condition_temperature O O B-timeRange B-spatial_relation B-city O B-timeRange I-timeRange
+O O O O B-timeRange O B-timeRange I-city O B-city I-city
+O O O O O B-timeRange
+O O O B-entity_name O B-timeRange B-timeRange
+O O O B-timeRange B-timeRange O O B-city
+O O O O O B-condition_description O B-country O B-timeRange
+O O B-country B-timeRange
+O O B-condition_description O O O O O B-timeRange
+O O B-condition_description O O B-timeRange
+O O O O I-movie_name I-movie_name B-timeRange
+O O O O O B-timeRange
+O O O O O O O O O B-timeRange I-timeRange I-timeRange O
+O O O O B-movie_name I-movie_name B-timeRange
+O O O O O B-timeRange I-timeRange
+O O O B-timeRange O
+O O O O O B-city O B-timeRange I-timeRange
+O B-condition_temperature O O O O B-city B-timeRange
+O O O O B-timeRange I-timeRange
+O O O B-condition_description O B-timeRange
+O O O O O B-city I-city O B-timeRange
+O O O B-condition_description O O
+O O O O B-city
+O O O O O B-condition_description B-timeRange I-timeRange
+O B-movie_name O B-timeRange
+O O O O O B-condition_description B-timeRange
+O O O O O O B-timeRange
+O O O O O O B-state I-state
+O B-timeRange O O B-condition_description
+O O O O O O O O O O B-country
+O O O O O B-timeRange
+O O O B-current_location O O B-city
+O O O O O O B-country
+B-timeRange I-timeRange O O O O O O B-country
+O O O O O O B-country
+O O O B-condition_temperature O B-timeRange
+O O O B-condition_description O B-timeRange B-timeRange
+O O O O B-facility B-timeRange O B-city
+O O O O O O B-city O B-timeRange
+O O O O O O O B-timeRange I-timeRange
+O O O O O B-condition_temperature B-timeRange
+O O O O O B-condition_description B-timeRange
+O O O B-condition_description O B-timeRange B-timeRange I-timeRange
+O O B-condition_description O B-timeRange
+O O O B-timeRange O B-timeRange I-timeRange B-current_location B-timeRange I-timeRange
+O O B-condition_description O B-timeRange
+O O O O O O O O B-timeRange I-timeRange I-timeRange
+O O O B-timeRange O O O
+O O B-condition_description O O B-condition_description B-timeRange
+O O O O B-served_dish O O B-timeRange
+O O O O O B-timeRange
+O O O O O O B-timeRange
+O O O O B-condition_description O
+O O B-timeRange I-timeRange
+O O O O O B-city
+O O O O O O B-timeRange I-timeRange O B-timeRange I-timeRange
+O O O O B-timeRange B-timeRange I-timeRange
+O O O O B-condition_temperature B-timeRange B-timeRange I-timeRange
+O O O O O O O B-timeRange
+O B-timeRange O
+O O O O O B-timeRange I-timeRange
+O O O O O O O O B-city B-state B-timeRange O
+O O O O B-timeRange
+O O B-condition_description O B-state
+O O O O O B-city I-city O B-timeRange I-timeRange
+O O O B-condition_description O
+O B-condition_temperature O O O B-country I-country
+O O O B-condition_description B-condition_temperature B-spatial_relation
+O B-timeRange I-timeRange O B-current_location B-state
+O O O O B-restaurant_name I-object_name O I-object_name
+O O O B-condition_temperature O I-timeRange O B-city B-state I-state
+O O O O O O O O B-timeRange
+O O O O O B-city O B-poi
+O O O O B-city I-city I-city O B-timeRange
+O O O O O O B-condition_description O O B-country
+O O O O B-city I-city O
+O O B-condition_description B-timeRange O B-city
+O O O O O O O O B-timeRange B-timeRange
+O O O O O O B-timeRange
+O O O O O O O B-timeRange
+O O O O O O O O B-timeRange
+O O O O O B-country
+B-timeRange O
+O O O O O O O B-timeRange
+O O O O O O B-poi O B-timeRange I-timeRange O
+O O O B-condition_temperature B-timeRange B-timeRange
+O O O B-condition_description B-spatial_relation O I-spatial_relation
+O O O O O O O O O B-condition_description
+O O B-condition_description O I-timeRange O B-state
+O O O B-current_location O O B-city
+O O O O O O O O O B-state B-timeRange
+O O B-condition_temperature O B-timeRange I-timeRange
+O B-condition_temperature O O O O B-city I-city O B-city
+O B-timeRange B-spatial_relation B-timeRange
+O O O O O B-city B-spatial_relation I-spatial_relation I-spatial_relation
+B-condition_temperature B-timeRange O I-timeRange
+O O O O B-facility
+O O B-condition_temperature O O O B-condition_temperature
+O O O O O O B-timeRange I-timeRange
+O O O O B-city B-country
+O O O O O B-timeRange
+O O O B-timeRange O B-timeRange
+O O O O B-facility O B-timeRange
+O O O O B-facility
+O B-timeRange I-timeRange
+O O O O O O O O B-timeRange
+O O O O B-facility
+O O B-condition_description O B-timeRange
+O O O O O O B-timeRange
+O O O B-movie_name O
+O O O O O B-condition_temperature B-timeRange O O O O O B-facility
+O O O B-condition_description O
+O O O B-condition_description B-timeRange I-timeRange
+O O O O O B-state O B-timeRange
+O O O O O O O B-timeRange
+O O B-condition_temperature B-condition_description
+O O B-condition_description B-timeRange
+O O O O B-country
+O O O O B-spatial_relation O O B-timeRange
+O O O B-condition_description O O O O
+O O O O O O B-city B-timeRange
+O O O B-entity_name O O O B-timeRange
+O O B-condition_description O O B-state B-timeRange
+O O O O B-timeRange I-timeRange O B-city
+O O O B-timeRange O B-timeRange B-country B-timeRange B-timeRange
+O O O B-timeRange O O
+O B-condition_temperature O O O B-city
+O O O O B-timeRange I-timeRange
+O O O O O O O O O O O B-timeRange
+O O 0 O B-country O O
+O O B-timeRange I-timeRange O
+O O O O B-country O
+B-poi O O B-timeRange B-timeRange I-timeRange
+O O O O O O O O B-facility
+O O O O O B-city
+O O O O O O O O O B-timeRange
+O B-condition_temperature O O O O B-timeRange
+O O O O B-condition_description O B-city B-timeRange
+O O O O O O O B-city O B-state
+O O O O O O B-object_type
+O O O O O O O O O O O B-city O B-timeRange
+O O O O O B-state O B-timeRange
+O O O O B-city B-country
+O O O O I-movie_name O I-movie_name B-timeRange
+O O O O B-city O B-timeRange
+O O O O O O B-timeRange
+O O O O O O B-timeRange
+O O O O O B-condition_description B-timeRange
+O O O O O B-timeRange
+O O O O O B-condition_description O B-city O O
+O O O O B-timeRange I-timeRange
+O O O B-condition_temperature B-timeRange
+O O O O B-city
+O O O O O B-timeRange I-timeRange
+O O O O O O O O O B-timeRange I-timeRange
+O O O O O O B-state O B-timeRange
+O B-condition_description O O O O I-timeRange
+O O O O O O O B-timeRange O B-city
+O O O O O O O B-condition_description B-timeRange O O O
+O O O B-condition_description B-timeRange
+B-timeRange O O
+O O O O O O B-timeRange
+O O O O O O O B-timeRange B-timeRange
+O O O B-condition_temperature O O O O B-facility O B-state O B-timeRange
+O O O B-movie_name I-movie_name B-timeRange I-timeRange
+O O B-city B-state
+O O O O B-timeRange O
+O O O O O B-condition_description O
+O O O O B-spatial_relation
+O O B-rating_unit O B-condition_description O O O
+O O O B-condition_description B-timeRange
+O O O O O B-poi
+O O B-condition_description O O O B-timeRange
+O O O O B-condition_description O O B-city B-timeRange
+O O B-timeRange O O B-state
+O O O B-movie_name I-movie_name O B-city B-timeRange
+O O O B-movie_name I-movie_name O O B-condition_description
+O O O O O O O O B-timeRange O B-timeRange
+O B-timeRange I-timeRange O B-city I-city B-state
+O O O O O B-timeRange O B-timeRange B-timeRange I-timeRange
+O O O O O O O B-timeRange B-timeRange
+O O O B-condition_description O B-timeRange
+O B-city B-timeRange
+O O O O O O B-city B-state
+O O O O O O O O O O O O B-timeRange O B-timeRange
+O B-condition_description O O O
+O O O B-timeRange B-timeRange B-timeRange I-timeRange
+O O B-condition_description O O O B-city B-timeRange I-timeRange
+O O O B-condition_description O O B-city I-city O B-timeRange
+O O O O O B-country
+O B-condition_temperature O O O B-timeRange
+O O O O B-timeRange O O B-city O
+O O O O B-condition_description O O B-timeRange
+O O O O I-movie_name I-movie_name B-timeRange
+O O O O O O O O B-timeRange B-timeRange
+O O O B-condition_description O B-timeRange
+O O O O B-timeRange
+O O O O O B-city B-timeRange I-timeRange
+O O O O B-condition_description O B-timeRange
+O O O O O O O B-city B-state I-state
+O O B-condition_description B-timeRange
+O O O O B-facility B-timeRange
+O B-timeRange O
+O O O O B-condition_description O
+B-city B-state O O
+O O O O O O O B-timeRange B-timeRange
+O O O B-condition_description O
+O O O O O B-condition_description O B-timeRange
+O O O O O O O O O B-timeRange
+O O B-condition_description B-timeRange I-timeRange
+O O O O O B-condition_temperature O I-timeRange
+O O B-timeRange B-timeRange O O B-city
+O O B-movie_name I-movie_name
+B-object_name O I-object_name
+O O O O B-condition_description O B-spatial_relation O I-spatial_relation
+O O B-condition_description B-timeRange
+O O O O B-timeRange O B-city
+O O O O O B-condition_temperature O O O B-facility B-timeRange
+O O O O O B-city B-timeRange I-timeRange
+O O O O B-timeRange O O O B-restaurant_type
+O O O B-condition_description B-condition_description O O B-state
+O O O O O B-country O
+O B-timeRange I-timeRange B-spatial_relation B-city B-state
+O O O O O O B-timeRange B-timeRange
+O O O O B-condition_description O B-city B-timeRange
+O O O B-facility
+O O O O O O B-timeRange
+O O O O B-facility O O B-facility
+O O B-condition_description O O O B-timeRange
+O B-condition_temperature O O O O B-timeRange
+O B-condition_temperature O O O O B-city O B-city O B-timeRange
+O B-condition_temperature O O O O O B-timeRange
+O O B-condition_description B-timeRange I-timeRange I-timeRange O B-state I-state
+O O O O O O O B-timeRange
+O O O O B-city O O O O
+O O O O O B-country
+O O O O O O O B-timeRange O B-city
+O O O O O B-condition_description B-timeRange
+O O O O O O B-facility O B-timeRange
+O B-condition_description O O O O O B-timeRange
+O O O O B-current_location O
+O O O B-condition_description O O O B-state B-timeRange
+O B-condition_temperature O O B-timeRange B-spatial_relation O B-city
+O O O B-condition_description O
+O O O B-condition_description O O B-state I-state I-state
+O O O O O O B-city
+O O O O O O B-timeRange O B-timeRange I-timeRange O B-country B-timeRange
+O O B-condition_description O B-state I-state B-timeRange
+O O O B-condition_description O O O B-city
+O O O O O 0 I-timeRange
+O O O O O B-condition_temperature B-timeRange
+O O O O B-object_type B-timeRange
+O O O O O O B-timeRange O B-timeRange I-timeRange
+O O O O B-condition_description O B-city I-city I-city B-timeRange
+O O O O O B-timeRange I-timeRange I-timeRange O B-timeRange
+O O O O O O O B-city I-city B-timeRange
+O O O O B-condition_description B-timeRange
+O O O O O B-condition_description B-timeRange I-timeRange
+O O O O O O O O B-timeRange
+O O O B-condition_description O O O
+O O O O O O O O O B-city B-timeRange
+O O O O O O B-timeRange I-timeRange I-timeRange
+O O O O O O O O B-timeRange B-timeRange O
+O O O B-timeRange O B-timeRange I-timeRange
+O O O O O O B-country
+O O O O O O O O O O B-timeRange O O B-condition_description O O O O B-spatial_relation
+O O O O B-timeRange I-timeRange I-poi B-timeRange I-timeRange
+O B-condition_description O O O O O
+O O O O O O B-timeRange
+O O B-condition_description B-timeRange
+O O O O O O B-timeRange
+O O O O O B-state
+O O B-condition_description B-condition_temperature O O B-city
+O O O O O O B-timeRange I-timeRange O B-country
+O O O O B-timeRange I-timeRange
+O O O O O B-condition_description B-condition_description O O B-timeRange I-timeRange
+B-timeRange O O B-city
+O O B-condition_description
+O O O O B-condition_description B-condition_description O B-spatial_relation O I-spatial_relation
+O O O O O B-condition_description O B-state B-timeRange
+O O O B-timeRange I-timeRange I-timeRange
+O O O O B-timeRange B-timeRange
+O O O O O O B-timeRange O B-timeRange I-timeRange O B-city O I-timeRange
+O O O B-condition_description O O
+O O O O B-timeRange O B-city I-city B-spatial_relation B-timeRange
+O B-condition_temperature O O B-city B-timeRange I-timeRange B-timeRange
+O O O O O B-city O B-timeRange I-timeRange
+O B-city B-timeRange I-timeRange
+O O O O B-timeRange I-timeRange I-timeRange I-timeRange B-timeRange B-timeRange
+O O B-condition_description O O B-timeRange I-timeRange O
+O O B-condition_description B-spatial_relation
+O B-spatial_relation O B-timeRange B-state
+O O O O O B-state I-state I-state
+O O B-city O
+O O O O B-timeRange I-timeRange O
+O O O B-timeRange O B-city B-timeRange
+O O O B-timeRange I-timeRange O B-country B-timeRange I-timeRange
+O O O O O O B-spatial_relation O B-timeRange
+O O B-condition_description O O O O O B-timeRange I-timeRange
+O O O B-entity_name
+O O O O O B-country
+O O O O B-object_type
+O B-condition_temperature O O O O B-country B-timeRange I-timeRange
+O B-timeRange O O O B-timeRange O O O
+O O O O B-timeRange I-timeRange
+O O O B-timeRange O
+O B-condition_temperature O O O
+O O B-rating_unit O B-condition_description O O O O O O B-timeRange I-timeRange
+O O O O O B-condition_description B-timeRange
+O O O O B-city I-city B-state B-timeRange
+O O O O O O B-city B-timeRange
+O O O O B-condition_description O O
+O B-condition_temperature O O O B-timeRange
+O O O O O O B-country
+O O O O O O O B-city
+O O O O B-timeRange O B-city I-city I-geographic_poi B-timeRange
+O O O O O O B-city I-city B-state B-timeRange I-timeRange
+O O O O O O B-condition_description O B-country B-timeRange
+O O O O O B-state
+O O O O B-condition_description B-timeRange I-timeRange
+O O O B-timeRange I-timeRange I-timeRange
+O B-timeRange I-timeRange O
+O O O B-condition_temperature O B-timeRange
+O O O O O O B-timeRange O B-state B-spatial_relation B-country I-country B-timeRange
+O B-timeRange I-timeRange B-city B-state
+O O B-condition_description O O B-timeRange
+O O O O B-timeRange O B-city I-city B-spatial_relation B-timeRange
+O O O O O O O B-timeRange B-timeRange
+O O O O O O O B-timeRange I-timeRange I-timeRange
+O O O O O O B-country O
+B-timeRange I-timeRange O O O
+O O O O O O O B-state I-country I-country O
+O O O O O O B-city
+O B-timeRange I-timeRange O O O B-timeRange
+O O O O O O B-timeRange
+O B-timeRange O O O B-condition_description
+O O O B-current_location O O B-city
+O O B-condition_description O O O B-timeRange
+O O O O O O O B-timeRange
+O O B-condition_description O B-state I-city B-timeRange O B-timeRange I-timeRange
+O O O B-current_location B-condition_description B-condition_temperature
+O O O O B-object_type
+O O O O B-condition_description O B-state I-state B-timeRange
+O O O B-timeRange B-timeRange O O
+O O O O O B-country O B-timeRange
+O O O B-condition_temperature O O B-timeRange
+O O B-timeRange O O B-city I-city I-city
+O O O O O B-city
+O O O O O B-timeRange
+O O O O B-condition_description O B-timeRange
+O O B-condition_description B-condition_description B-timeRange
+B-timeRange I-timeRange I-timeRange O O O O O O
+O O B-timeRange O O B-condition_description
+B-country I-country O O B-timeRange I-timeRange
+O O O O O B-city
+O B-timeRange
+O O O O B-condition_description O O O O B-city
+O O O O O B-timeRange I-timeRange
+O O O O B-timeRange I-timeRange O B-city B-timeRange I-timeRange
+O B-condition_temperature O O O B-timeRange I-timeRange
+O B-condition_temperature O O O O B-timeRange
+O O O O B-timeRange I-timeRange I-timeRange O B-timeRange I-timeRange
+O O O B-condition_temperature B-timeRange
+O O O O B-city B-timeRange I-timeRange
+O I-object_name I-album B-timeRange
+O O O O O B-city I-city O B-timeRange
+O O O O O O B-timeRange
+O O B-condition_temperature O B-timeRange
+O O O O O O O O B-timeRange O B-city
+O O O O B-city I-geographic_poi
+O B-condition_temperature O O O B-city
+O O O B-condition_temperature O O O B-timeRange
+O O O O B-facility B-timeRange
+O O O O I-movie_name B-timeRange
+O O O O B-country
+O O O O O O B-city B-timeRange
+O O O O O B-city
+O O O O B-condition_description O O B-timeRange
+O B-condition_description O O O O
+O O B-condition_description O B-city B-timeRange
+O O O O B-served_dish B-timeRange
+O O O O O O O B-timeRange
+O O O O O O B-condition_description B-timeRange
+O O O O O B-city B-timeRange I-timeRange
+O O O O B-city
+O O O O B-condition_description B-timeRange
+O O O O O O B-timeRange O B-timeRange O B-city B-timeRange I-timeRange
+O O O B-timeRange O
+O O O O O O I-spatial_relation
+O O O O O B-timeRange
+O O O B-facility
+O O O O O B-facility O B-timeRange
+O O O O O B-condition_temperature O B-timeRange
+O O B-timeRange
+O B-city B-state B-timeRange
+O O O O B-timeRange I-timeRange O B-city B-state
+O O B-condition_description B-spatial_relation O B-timeRange
+O O O O B-served_dish B-timeRange
+O O O O O O B-condition_description B-timeRange
+O O O B-facility I-served_dish B-timeRange
+O O O B-spatial_relation
+O O O B-condition_temperature B-timeRange I-timeRange
+O O B-condition_description B-timeRange
+O O B-timeRange O O O
+O O O O B-condition_description B-timeRange
+O O O O O B-condition_temperature B-timeRange I-timeRange
+O O B-condition_description O B-city B-timeRange
+O O O B-timeRange O
+O B-condition_temperature O O O B-city B-timeRange O B-timeRange I-timeRange
+O O B-movie_name I-movie_name I-movie_name
+B-timeRange O O
+O O O O O B-timeRange
+O O O O O B-state
+O O O O O O O O O B-country I-country
+O O O O O B-geographic_poi B-timeRange
+O O O O B-timeRange I-timeRange O B-state
+O O O O O B-city I-city O B-timeRange I-timeRange
+O O O O O O B-city
+O O O B-current_location O O B-timeRange
+O O O O O B-condition_description B-timeRange
+O O O O O B-country O B-timeRange I-timeRange
+O O O O O B-country
+O O O O B-condition_description O O O B-state
+O B-state O O O O B-condition_description
+O O O O O O O O B-country O B-timeRange
+O O O O O O B-facility B-object_type B-timeRange
+O O O O O O O O O B-state I-state I-state
+O O O O B-timeRange B-timeRange
+O O O O B-timeRange O
+O O O O B-condition_description O O B-condition_description
+O B-spatial_relation O B-timeRange I-timeRange
+O O O O B-timeRange B-timeRange
+O O B-city O B-timeRange
+O O O O O B-city O B-city
+O O O O O B-condition_description B-timeRange
+O O O O O O B-timeRange O B-city I-city I-city B-timeRange I-timeRange
+O O O O O O B-city B-state
+O O O O B-condition_description O B-timeRange O B-city I-city
+O O O O O O O 00P B-timeRange
+O O O O O B-country
+O O O B-condition_description B-timeRange O
+O O O O O O B-timeRange
+O O O O O O B-timeRange
+O O O O B-timeRange O
+O O I-object_name O O O B-condition_description
+O O O B-condition_temperature O B-timeRange
+O O O O O O O B-timeRange
+O O B-rating_unit O B-condition_description O O O B-timeRange
+O O O O B-timeRange
+O O O O O O B-timeRange
+O O O O O O B-timeRange
+O O O O B-timeRange I-timeRange B-timeRange
+O O O O B-timeRange
+O O O B-condition_description O O O O B-timeRange
+O O O B-condition_description O
+O O O O O O B-city B-timeRange
+O O O O O O O B-timeRange
+O O O O B-timeRange I-timeRange I-timeRange O
+O O O O O B-current_location B-timeRange I-timeRange
+O O B-timeRange O O
+O O O O O B-timeRange
+O O O O B-facility B-timeRange
+O O B-city B-country
+O O O O O B-state
+O O B-condition_description O O B-timeRange
+O O O B-condition_description O O B-city B-timeRange
+O O O B-condition_temperature O B-state I-state B-timeRange I-timeRange
+O O O O B-city I-poi I-poi
+O O O B-entity_name I-object_name B-timeRange
+O O I-object_name I-object_name I-object_name
+O B-condition_temperature O O O O O O B-timeRange
+O O O O O O O B-timeRange
+O O O O B-timeRange I-timeRange I-timeRange O O B-country I-country
+O B-timeRange O O I-timeRange I-timeRange I-timeRange O O O B-condition_description O B-city B-country
+O O O O B-timeRange O B-timeRange I-timeRange O B-country
+O B-timeRange I-timeRange I-timeRange
+O O B-timeRange O
+O O O B-timeRange O O B-city
+O O O O B-condition_description O O B-geographic_poi B-timeRange
+O O O B-timeRange
+O O O O B-condition_description
+O B-condition_temperature O O O B-timeRange
+O B-condition_temperature O O B-timeRange B-timeRange I-timeRange I-timeRange I-timeRange
+O O O O B-timeRange I-timeRange
+O O O O O O B-timeRange
+O O O O B-city
+O O O O O B-country I-country
+O O O O O B-condition_description B-timeRange I-timeRange
+O O O O B-condition_description O O B-country I-country
+O O O B-timeRange O B-state I-state O
+O O O O B-city
+O O O B-condition_description B-timeRange
+O O O O B-movie_name O
+O O O B-timeRange O B-city B-spatial_relation B-country B-timeRange B-timeRange
+O O O B-condition_description B-timeRange I-timeRange
+O O O O O O O O O O B-country
+O O O O O O O B-timeRange O B-state
+O O O O O B-timeRange O B-timeRange
+O O O O B-timeRange
+O O O O B-timeRange O B-city I-city O B-city I-city B-timeRange
+O O O B-timeRange
+O O O O O O O B-timeRange
+O O O O B-condition_description O B-timeRange
+O O O B-condition_description O B-city I-city
+O O O O B-city
+O O O B-condition_description O B-timeRange
+O O O O B-timeRange B-timeRange I-timeRange
+O O O O B-timeRange I-timeRange
+B-current_location O B-timeRange
+O O O O B-city
+O O O O O B-condition_description B-timeRange
+O O O O O O B-timeRange I-timeRange
+O O O O B-timeRange I-timeRange
+O O O O O B-city O B-timeRange
+O O B-condition_description O B-city O B-timeRange
+O B-spatial_relation B-timeRange I-timeRange
+O O O O O O O B-timeRange
+O O B-city O
+O O O O B-condition_description O
+O B-timeRange
+O O O O O O B-poi
+O O O O O O B-timeRange
+O O B-timeRange O O
+O O O O O O O B-timeRange
+O O O O B-timeRange
+O O O O O B-condition_description O B-timeRange B-timeRange
+O O O O O O O B-condition_description B-timeRange
+O O O O O O B-timeRange
+O O O O O O O B-timeRange
+O O O O B-condition_description
+O O O O O O B-timeRange I-timeRange I-timeRange O B-city B-timeRange I-timeRange
+O O O O B-timeRange I-timeRange B-timeRange I-timeRange
+O O O O O O B-facility O O B-timeRange
+O O O O O B-timeRange
+O O O O O O B-condition_description
+O O O B-condition_description O O B-state
+O O O B-condition_description B-timeRange I-timeRange
+O O O O B-condition_description O O O B-timeRange I-timeRange
+O O O O B-condition_description B-condition_description O O O B-state
+O B-condition_temperature O O B-timeRange I-timeRange
+O B-timeRange I-timeRange O
+O O O O B-timeRange
+O O B-condition_description O B-city I-city O B-timeRange
+O O O O O O B-timeRange I-timeRange O B-city
+O O B-condition_description O O B-timeRange
+O O B-condition_description O O O B-state I-state
+O O O O O O B-condition_temperature O B-condition_description B-timeRange
+O O O O O O B-current_location I-timeRange B-timeRange
+O O B-condition_temperature O B-timeRange
+O O O O O B-timeRange B-timeRange
+B-cuisine O O
+O B-state O B-condition_description B-timeRange
+O O O O O O B-state I-state
+O O O O O O B-state
+O O O O O B-city
+O O B-condition_description O O B-current_location
+O O O O O O B-city B-timeRange
+O O O B-condition_description O O O O B-timeRange I-timeRange
+O O O O O I-poi
+O O O B-timeRange O B-city I-city B-country B-timeRange I-timeRange
+O B-condition_temperature O O O B-timeRange
+O O O B-condition_description O B-timeRange
+O O O O O O O O B-country
+O O B-condition_description B-timeRange O O
+O O O B-condition_description O B-country
+O O O O O B-condition_description O B-timeRange
+O O B-rating_unit O B-condition_description O O O B-timeRange
+O B-condition_temperature O O B-city B-timeRange O B-timeRange I-timeRange
+O O O O O O B-timeRange
+O O B-condition_description B-condition_description O O B-city I-city
+O B-condition_temperature O O O B-city I-city B-timeRange I-timeRange O B-timeRange I-timeRange
+O O O O O O B-timeRange
+O O B-timeRange O B-timeRange O B-condition_description O O O
+O O B-condition_description O B-timeRange
+O O B-country O O O O B-timeRange I-timeRange
+O O O B-timeRange I-timeRange O O O I-current_location
+O O O O B-timeRange O B-timeRange I-timeRange B-current_location
+O O B-condition_description
+O O B-timeRange O B-timeRange
+O O O O O O B-city O
+O O O B-state
+O O O O O O B-timeRange
+O B-city
+O O B-condition_description B-timeRange
+O O B-city I-city O O O B-timeRange
+O O O O O B-condition_description
+O O O B-condition_description O B-timeRange
+O O O 00pm O O
+O O O O B-condition_description B-timeRange
+O O O O O O O B-state I-state
+O O O B-facility O B-facility B-timeRange
+O O O O O O B-country I-country
+O O O O O B-city B-timeRange
+O O O O B-timeRange
+O O O O B-city B-state
+O B-condition_description O O O B-timeRange
+O O B-city
+O O O O O B-city B-timeRange
+O O O O O B-condition_description O B-timeRange
+O O O O B-spatial_relation
+O O O O O O O O B-timeRange I-timeRange
+O O B-condition_temperature O B-country O B-timeRange
+O B-movie_name I-movie_name B-timeRange I-timeRange
+O O O B-object_name
+O O O O O O O O B-timeRange
+O O O O O O B-timeRange
+O B-condition_description O O O
+O O O O B-spatial_relation
+O B-condition_temperature O O B-timeRange
+O O O O O O B-object_type
+O O O O O B-condition_description O O B-condition_description
+O O O O B-condition_description B-timeRange I-timeRange
+O B-condition_description O O O O O B-spatial_relation B-city I-city
+O O O O O O B-timeRange I-timeRange I-timeRange I-timeRange
+O O O B-condition_description O
+O O O O O O B-country O B-timeRange I-timeRange
+O O O O O B-timeRange
+O O O B-condition_description B-spatial_relation
+O O B-timeRange I-timeRange O
+O O O O O B-poi
+O O O O O O O B-timeRange
+O O O O B-facility B-timeRange
+O O O O O B-country
+O O O B-timeRange O
+O O O O B-timeRange B-timeRange I-timeRange I-timeRange I-timeRange O B-location_name I-location_name I-location_name
+O B-condition_temperature O O O B-country
+O B-timeRange O O B-city B-state
+O B-condition_temperature O O O O B-timeRange B-timeRange
+O O B-condition_description O B-city
+O O O O O B-timeRange I-timeRange B-timeRange I-timeRange
+O O O O O O B-city B-timeRange
+O O O O O B-timeRange I-timeRange I-timeRange
+O B-condition_description B-timeRange
+O B-timeRange B-timeRange I-timeRange
+O B-timeRange O O O O O O O I-timeRange
+O O B-condition_description O B-timeRange O
+O O B-movie_name I-movie_name
+O O O O O O O O B-condition_description
+O O O O O O B-timeRange I-timeRange
+O O B-city
+O O O O O O B-state
+O O O O O O B-timeRange I-timeRange
+O O O O O O O O B-timeRange
+O O O O B-condition_description O
+O O B-condition_description O B-city O B-timeRange
+O B-condition_description O O B-timeRange O B-city
+O O O O O B-timeRange I-timeRange I-timeRange
+O B-condition_temperature O O O O O O B-timeRange
+O O O O O O B-timeRange I-timeRange
+O O O B-condition_description O
+O O O O O B-timeRange
+O O O B-timeRange I-timeRange
+O O B-condition_description O O O O O O B-city B-timeRange
+O O O B-movie_name I-movie_name
+O O O O B-condition_description O O O B-timeRange
+O O O O O O B-timeRange O B-timeRange I-timeRange
+O O O O O B-condition_description O B-timeRange
+O O B-city O B-timeRange
+O O O O O O B-timeRange
+O O O O B-timeRange I-timeRange O B-condition_description O B-city B-state
+O O O B-timeRange B-spatial_relation O B-timeRange
+O O O O B-served_dish B-timeRange
+O O O O O O O B-condition_description O B-spatial_relation I-spatial_relation I-spatial_relation
+O B-condition_description O O B-condition_description O
+O B-condition_description O B-city
+B-timeRange I-timeRange O
+O O O O B-condition_description B-timeRange
+O O O O O O B-timeRange
+O O O O B-condition_description
+O B-condition_description O B-timeRange
+O O O B-condition_temperature O O O O B-timeRange
+O B-condition_temperature O O O B-timeRange
+O O O O O B-country
+O O O O O B-city O B-country
+O O O O O B-country O B-timeRange
+O O B-condition_description B-timeRange O B-city
+O O B-condition_description O O I-spatial_relation B-timeRange I-timeRange
+O B-condition_description O O O O B-facility
+O O O O O O B-timeRange
+O O B-country O
+O O O B-timeRange
+O O O O B-condition_temperature O B-timeRange O B-timeRange
+O O O O O B-city
+O O O O O O O B-timeRange
+O O O O O B-condition_temperature O O B-condition_description
+O O O O O B-city B-timeRange I-timeRange
+O B-condition_temperature O O O I-timeRange B-spatial_relation B-poi O B-timeRange I-timeRange
+O O O O B-timeRange
+O B-condition_description O O O O
+O O B-condition_temperature O B-city
+O B-timeRange O B-city
+O O B-timeRange I-timeRange O O
+O O O O O O O O O B-condition_description
+O O O O O O O B-city B-state B-timeRange
+O O O O B-condition_description O B-state
+O O B-condition_description O
+O B-timeRange O I-object_name O O B-timeRange
+O O O O B-served_dish O O O B-served_dish O B-spatial_relation
+O O B-timeRange
+O B-timeRange O O B-condition_description
+O O B-timeRange O B-timeRange O O O O B-condition_temperature
+O O O O B-condition_description B-spatial_relation
+O O O O B-state I-state O O
+B-current_location O B-city B-country
+O O B-object_name I-movie_name
+O O O B-condition_description O B-timeRange
+O O O O O B-condition_temperature O B-condition_description
+O O O B-spatial_relation O B-timeRange
+O O O O O O B-timeRange O B-city I-city O B-city O I-timeRange
+O O O O B-timeRange O
+O O B-condition_description O B-timeRange
+O B-condition_temperature O O O B-city I-city B-timeRange I-timeRange I-timeRange I-timeRange
+O O O B-condition_temperature B-timeRange
+O O B-condition_temperature B-condition_description
+O O O O B-poi
+O O O O O I-timeRange
+O O O O B-condition_description O B-city B-state B-timeRange I-timeRange
+O O O O O O O O O O O B-state I-state B-timeRange I-timeRange
+O B-condition_temperature O O O B-state I-state
+O O O O B-poi I-poi
+O O O O O B-country I-country
+O O O O O O B-timeRange B-timeRange
+O O O B-condition_temperature O O O O B-facility B-timeRange I-timeRange
+O O O O O O B-timeRange I-timeRange O
+O O O O O O B-timeRange I-timeRange
+O O O O O O B-timeRange O B-city I-city I-city B-timeRange
+O B-condition_temperature O O O
+O O O O O O B-timeRange
+O O B-rating_unit O B-condition_description O B-city O B-timeRange
+O O O O B-condition_temperature O B-timeRange
+O O O O O O O O B-timeRange
+O B-condition_temperature O O O B-country O B-timeRange I-timeRange
+O O O O B-timeRange
+O O B-condition_description O B-timeRange
+O O B-condition_description O B-city
+O O O O B-city B-state B-timeRange I-timeRange
+O O B-condition_temperature O B-city I-city
+O O O O O O O B-city
+O O O O O O O B-city B-state I-state I-state I-state
+O B-city I-city O B-condition_description O B-timeRange
+O O O B-timeRange I-timeRange I-timeRange O B-city
+O O O O B-condition_description O B-timeRange
+O O O B-condition_description O B-condition_description B-timeRange
+O O O O O B-country O B-timeRange I-timeRange
+O O O O B-facility
+O O O O B-timeRange I-timeRange
+O O B-current_location O O B-city
+O O B-condition_description O B-city B-timeRange
+O O O O B-timeRange B-timeRange
+O O B-condition_description O O O B-timeRange I-timeRange
+O O O B-timeRange
+O O O B-condition_description O B-city B-timeRange O O
+O O O O O B-country
+O O B-condition_description O O O B-timeRange
+O O O O O O B-city B-state
+O O O B-condition_description O B-city I-city B-timeRange
+O O O O O O O O B-state O B-timeRange I-timeRange I-timeRange
+O O O O O O O O O B-timeRange
+O O O O O O B-timeRange I-timeRange I-timeRange
+O O B-condition_temperature B-condition_description O
+O O O O O O O O B-condition_temperature
+O O O O O O O O O B-country O B-timeRange
+O O O O O O O O O O B-city
+O O O O O B-timeRange I-timeRange
+O O O O B-state O O B-sort O B-timeRange I-timeRange I-timeRange
+O O O O B-movie_name I-movie_name B-timeRange O B-city
+O O O O O O O O B-timeRange O O O O
+O O O O O B-country
+O O B-condition_description O I-timeRange
+O O O B-condition_temperature O B-timeRange
+O O O B-timeRange O B-timeRange O B-country B-timeRange I-timeRange
+O O O O O B-state I-state
+O O O O O B-city I-city B-state
+O O O B-condition_temperature O B-timeRange
+O O O O O O B-timeRange
+O O O O B-movie_name I-movie_name I-movie_name I-movie_name B-timeRange O O O O
+O O O O B-timeRange
+O O O O B-timeRange
+O O B-country
+O O O O B-timeRange B-timeRange
+O O O B-condition_temperature
+B-timeRange O O
+O O O O I-object_name
+O O O B-condition_description O O B-timeRange
+O B-condition_temperature O O B-timeRange B-city I-city O B-timeRange I-timeRange
+O O O O O O O B-timeRange I-timeRange
+O O B-timeRange O O O O O
+O O O O O O B-timeRange
+O O O O B-condition_description B-timeRange
+O O O O B-timeRange I-timeRange O B-city
+O O O O O O B-timeRange
+O O O O O B-condition_description O O B-facility B-timeRange
+O O O O B-condition_description O B-state O B-timeRange
+B-timeRange B-timeRange O
+O O O O O B-city
+O O O O B-timeRange I-timeRange
+O O B-condition_temperature O B-timeRange
+O O O O O O B-timeRange O B-country
+O O O O O B-country I-country I-country O
+O O O B-movie_type O B-city I-city B-timeRange
+O O O B-timeRange I-timeRange I-timeRange B-spatial_relation B-city B-timeRange
+O O O O O O B-timeRange O
+O O B-condition_temperature O O O B-country O B-timeRange
+O O B-city O B-timeRange
+O O O O O O O O B-timeRange
+O O O B-timeRange O B-timeRange O B-city
+O O O O O O O B-timeRange I-timeRange
+O O O B-condition_description O O O B-timeRange
+O O O O B-condition_description O O B-timeRange I-timeRange I-timeRange
+O O O O O B-city
+O O O O O B-city B-state B-timeRange I-timeRange
+O B-timeRange B-timeRange O
+O O O O O O O B-state I-state B-spatial_relation
+O O O O B-facility B-timeRange
+O O O O O B-condition_description B-timeRange
+O O O O B-timeRange O B-city I-geographic_poi O O B-timeRange I-timeRange
+O O O O O O B-timeRange
+O O O B-timeRange O B-timeRange I-timeRange O B-city B-timeRange
+O B-condition_temperature O B-state O
+O O O O B-served_dish O
+O O O O B-city
+O O B-condition_description O B-timeRange I-timeRange
+O O O O O O B-country B-timeRange I-timeRange
+O O O O O B-state
+O O O B-facility O B-facility
+O B-condition_temperature O O B-timeRange
+O O O O O O O B-timeRange
+O B-timeRange O O O
+O O O O O O B-timeRange
+O O O O O B-state O B-timeRange
+O B-condition_temperature O O O O O B-city I-city
+O O B-condition_description O B-timeRange
+O O O O O B-condition_description B-condition_description B-timeRange
+O B-timeRange O O O B-facility
+O B-condition_temperature O O O I-timeRange O B-city O B-timeRange I-timeRange
+O B-condition_temperature O O O B-timeRange I-timeRange
+O O O O O B-city
+O O O O B-condition_description O
+B-condition_temperature O O O O O O B-timeRange
+O B-condition_temperature O O B-timeRange
+O O O O O B-timeRange I-timeRange O B-timeRange
+O O O O B-city I-city B-timeRange
+O O O O O O I-timeRange I-timeRange
+O O O B-city
+O O O O O O O O B-timeRange I-timeRange I-timeRange
+O O O O O B-timeRange B-timeRange I-timeRange
+O O O O O B-state O B-timeRange
+O O O O B-timeRange I-timeRange
+O O B-condition_description B-condition_description O O O O B-timeRange
+O O B-timeRange O
+O O O O O O B-timeRange I-timeRange
+O O B-condition_description O O O O O B-timeRange
+O B-country
+O O O O O B-country
+O O O O O B-movie_name I-movie_name I-restaurant_name B-timeRange
+O O O O O B-state I-state O B-timeRange
+O O O O B-spatial_relation
+O O O B-timeRange I-timeRange I-timeRange
+O O O O O B-city
+O O O O O O B-state O B-timeRange I-timeRange
+O O O O O O O B-state
+O B-current_location B-timeRange I-timeRange I-timeRange
+O O O O B-playlist O
+O O O O B-facility
+O O O O O O O B-city B-timeRange I-timeRange
+O O O O B-country I-country
+O O O O O O O O B-poi B-timeRange
+O O O O O O O I-geographic_poi I-geographic_poi B-condition_description B-timeRange
+O B-condition_temperature O O B-spatial_relation B-poi I-city O B-city I-city
+O B-condition_temperature O O B-timeRange B-spatial_relation B-poi I-timeRange I-timeRange
+O O O O B-timeRange I-timeRange O B-country
+O B-timeRange O O B-condition_description
+O O B-condition_description O O B-timeRange
+O O O O O O B-timeRange
+O O O O B-condition_description O O O
+O O O O O O B-timeRange
+O B-condition_description O O B-city B-timeRange I-timeRange
+O O B-city B-spatial_relation I-spatial_relation I-spatial_relation
+O O O O O B-country I-country
+O O O O O B-city O I-poi
+O O O O O O O B-timeRange I-timeRange I-timeRange
+O O B-condition_temperature B-timeRange
+O O O O O O O O O B-state O B-timeRange I-timeRange
+O O O O O O O O B-timeRange B-timeRange I-timeRange I-timeRange
+O O O O O O O B-country I-country
+O O O O O O O B-timeRange
+O O O O O B-timeRange I-timeRange I-timeRange I-timeRange
+O O B-condition_description O B-city B-timeRange
+O O O B-condition_description O O I-spatial_relation I-spatial_relation
+O O O O B-condition_description O
+O O B-movie_name I-movie_name B-timeRange
+O O B-condition_description O O B-timeRange
+O O O B-condition_description O B-spatial_relation I-spatial_relation I-spatial_relation
+O O O B-timeRange
+O O O O O O B-facility O B-timeRange
+O O O B-current_location O O B-state I-city
+O O O O O B-timeRange I-timeRange I-timeRange
+O O O B-city O B-city
+O O O O O B-city O B-timeRange
+O O O O O O B-timeRange
+O O O O O O B-timeRange I-timeRange
+O B-condition_temperature O O O I-timeRange O B-country O B-city I-city
+O O B-condition_description O O O
+O B-movie_type O O O B-timeRange
+O O O O O O O O B-timeRange I-timeRange
+O O B-condition_description O B-timeRange I-timeRange
+O B-condition_temperature O O O B-city I-city
+O O O O O O B-facility B-timeRange
+O O O B-facility
+O B-condition_temperature O O O B-city B-timeRange I-timeRange I-timeRange
+O O O O O O O B-timeRange B-timeRange
+O O O B-condition_description O O B-timeRange
+O O O O O O B-state
+O O O O O O O O O O B-city I-city O
+O O O B-object_name I-object_name I-object_name
+O O O O O B-timeRange
+O O B-condition_description O O B-state
+O O O O O O O B-country B-timeRange I-timeRange
+O O O O O O B-timeRange B-timeRange
+O B-condition_temperature O B-city I-city O O B-timeRange
+O B-condition_temperature O O B-spatial_relation B-poi B-timeRange O B-timeRange I-timeRange
+O O O O O O B-country O B-timeRange
+O O O O O O B-city
+O O O O O O O O B-city
+O O O O O O O O B-city B-facility
+O O O O O O B-object_type
+O O O B-spatial_relation
+O B-timeRange I-timeRange O B-city B-state
+O O O O B-timeRange I-timeRange
+O O B-condition_description O O
+O O O O O B-timeRange I-timeRange O
+O O O B-condition_description O
+O O O O O B-country I-country
+O O O O B-timeRange
+O O O B-current_location B-condition_description B-condition_temperature
+O O B-condition_description O O O B-timeRange
+O O O O O O O O O B-city B-timeRange
+O O O O B-state B-timeRange
+O B-timeRange O O B-timeRange O O O O O O O O O O B-country
+O O O O O O O B-timeRange I-timeRange I-timeRange I-timeRange
+O O O B-condition_description B-condition_description O B-timeRange
+O O B-timeRange
+O B-condition_description O O O B-timeRange O B-city
+O B-condition_temperature O O O O B-timeRange
+O B-condition_description O O B-condition_description O O O
+O O O O B-served_dish O B-timeRange
+O O O O O O B-timeRange O B-city I-city O B-state I-state B-timeRange B-timeRange
+O B-timeRange B-timeRange
+O O O O B-city O B-timeRange
+O O O O B-timeRange
+O O O O O O B-condition_description
+O O O O O B-condition_description O
+O O O B-condition_description O B-condition_description
+O B-condition_description O O O O B-timeRange
+O O O O O O O O O B-facility
+O O O O B-condition_description O O B-timeRange I-timeRange I-timeRange
+O O B-current_location O O B-state
+O O B-condition_description O O O B-timeRange
+O O O O O B-city
+O O O B-condition_description O B-state B-timeRange I-timeRange
+O O O B-timeRange B-timeRange O O O
+O O O O O O B-condition_description O
+O B-condition_temperature O O B-condition_description
+O B-condition_temperature O O O B-timeRange B-timeRange I-timeRange I-timeRange
+O O O O B-condition_description O O B-condition_description B-timeRange I-timeRange
+O O O O O O I-movie_name B-timeRange
+O O O O B-poi O O O O B-timeRange I-timeRange O O
+B-condition_temperature B-spatial_relation
+O B-city B-timeRange I-timeRange B-state
+O O O B-timeRange
+O O O O O O B-condition_description B-spatial_relation
+O O O O O O B-facility B-timeRange
+O O O O O O O B-condition_description B-timeRange
+O O O O O O O B-timeRange
+O O O O B-country I-country I-country
+O B-condition_temperature O B-condition_temperature O O B-timeRange
+O O B-spatial_relation B-condition_temperature B-timeRange
+O O O O O B-country
+O O B-state O
+O O O O O O O B-timeRange O I-timeRange
+O O O O O B-country B-timeRange
+O O O B-movie_name I-track
+O O O O O O O O O B-timeRange I-timeRange O B-city
+O O O O O B-city O B-timeRange I-timeRange
+O O O O B-condition_description O B-country O B-timeRange I-timeRange
+O O B-condition_description B-timeRange O B-city
+O O O O O O O O B-timeRange B-timeRange
+O O O B-movie_name I-movie_name B-timeRange
+O O O B-condition_description O B-timeRange
+O B-condition_temperature O O B-timeRange I-city I-timeRange
+O O O O O O O O B-timeRange
+O O O O I-movie_name O O O B-state I-state
+O O B-condition_description B-timeRange I-timeRange
+O O O O O B-timeRange
+O O O O O O B-condition_temperature B-timeRange B-timeRange
+O O O O O O B-city O B-timeRange
+O O B-condition_description O O O B-timeRange I-timeRange O B-city I-city
+O B-condition_description O O O O O B-timeRange
+O O O B-condition_description O
+O O B-timeRange B-condition_description O O O
+O O O O B-timeRange I-timeRange B-timeRange
+O O O O O B-timeRange
+O O O O O O O O O B-timeRange
+O O B-timeRange O
+O O O O O O O O B-timeRange O B-country
+O O B-timeRange O B-timeRange
+O B-condition_description O O B-condition_description
+O O B-condition_description O O B-city
+O O O O O B-city
+O B-spatial_relation B-country B-timeRange I-timeRange I-timeRange
+O B-condition_description O O O O O B-timeRange
+O O B-object_name I-object_name I-object_name
+O O O O O B-city I-city O I-timeRange
+O O O B-condition_description O O O O O B-city B-spatial_relation O B-timeRange
+O O O O O O B-timeRange
+O O O B-condition_description B-timeRange
+O O O O O O B-city O
+O O B-condition_description O O O
+O O O B-city O
+O O O B-timeRange I-object_type O B-timeRange O O O O O B-timeRange
+O O O O B-condition_description B-timeRange
+O O O B-timeRange O B-state B-spatial_relation B-country B-timeRange
+O B-condition_description O O B-timeRange I-timeRange
+O O O O B-country
+O O O O O B-city
+O O O B-movie_name I-entity_name
+O O O O B-city B-state
+O O O O O B-country O O B-timeRange I-timeRange
+O O O B-timeRange O O
+O O O O O B-condition_description B-timeRange
+O O B-condition_description B-timeRange I-timeRange
+O O O O B-condition_description O O O
+O O O O O O B-country
+O O B-timeRange I-timeRange I-timeRange
+O O O O B-timeRange B-timeRange
+O O O O O O B-country I-country I-country B-timeRange
+O O O O O B-timeRange
+O O O O O O O B-country
+O O B-condition_description O B-timeRange
+O O O O O B-city I-city O B-timeRange
+O O O O O O B-timeRange I-timeRange I-timeRange I-timeRange
+O O I-object_name O
+O O O B-condition_temperature O
+O O O O B-condition_description O B-timeRange
+O B-condition_temperature O O O O B-city I-city B-timeRange I-timeRange
+O O O B-condition_description O O
+O O O O O B-spatial_relation
+O O O O B-timeRange O B-state
+O O B-condition_description O B-state O B-timeRange I-timeRange I-timeRange
+O O O O B-country
+O O O O B-timeRange
+O O O O B-condition_description
+O O O O O B-timeRange
+O O B-condition_temperature O O O B-timeRange
+O O B-condition_description B-spatial_relation
+O B-condition_temperature O O B-condition_description
+O O O O O B-timeRange O B-timeRange I-timeRange I-timeRange O B-country
+B-condition_description O B-timeRange
+O O B-city O
+O O O B-condition_description
+O O O O O O O O B-timeRange O B-state I-state I-state
+O O O O B-timeRange
+B-timeRange I-timeRange O B-state
+O B-timeRange B-state
+O O O O O B-city B-state O
+O O O O O B-country
+O O O B-timeRange O B-city I-city O I-timeRange
+O O O O B-condition_description B-timeRange
+O O O O B-object_type
+O B-condition_temperature O O O B-timeRange
+O O B-poi I-poi I-poi
+O O O O O O B-timeRange
+O O O O B-timeRange I-movie_name I-timeRange O B-city
+O O O O I-object_name O I-timeRange
+O O O O O O B-timeRange I-timeRange
+O O O O O B-entity_name O B-timeRange
+O B-condition_temperature O O O B-country I-country B-timeRange
+O O O O O O O B-condition_description B-timeRange
+O O O B-condition_description O
+O O O O O B-state
+O B-condition_description O O
+O O B-condition_description O B-spatial_relation
+O O O O B-state I-state I-state
+O O O O O B-timeRange I-timeRange
+O B-condition_temperature O O O B-state
+O O B-condition_description O O O O B-timeRange
+O O B-condition_description O B-city
+O O O O O O B-state I-state
+O B-condition_temperature O O O O B-city B-state B-timeRange I-timeRange
+O O O B-condition_description O B-timeRange
+O O O O O B-city I-city B-timeRange B-timeRange I-timeRange I-timeRange
+O B-condition_description O O B-condition_description
+O O O O B-city
+O O O O B-timeRange O B-timeRange I-timeRange O B-city B-timeRange B-timeRange
+O O O O O O B-country I-country
+O O O O O B-state O
+O O B-condition_description O O
+B-country O O O O
+O O O O O B-city B-country
+O O O O B-condition_description O B-city I-city O B-timeRange
+O B-spatial_relation O O O B-spatial_relation B-condition_description
+O B-timeRange O B-city B-state
+O O O B-condition_description O B-timeRange I-timeRange
+O O O B-timeRange O O O
+O O B-condition_description O B-city I-city B-state B-timeRange I-timeRange
+O O O O O B-timeRange
+O O O O O B-city B-country
+O O B-condition_description O B-city I-city B-timeRange I-timeRange
+O O O O O O B-city I-city
+O O O B-movie_name I-movie_name
+O O B-timeRange O O
+O O B-rating_unit O B-condition_description O B-city O O B-timeRange
+O O B-condition_temperature O B-city B-state O B-timeRange
+O O B-condition_description O O B-timeRange
+O O O O B-timeRange O O
+O O O O O O O O O O B-country
+O O O O O O B-country
+O O O O O O O I-movie_name
+O O O O O O B-city O B-timeRange O 00pm
+O O O O O B-country
+O O O O B-facility O O B-timeRange
+B-timeRange O
+O O O O B-condition_description O B-timeRange
+O O B-current_location I-current_location
+O O O B-condition_description O B-state
+O O O O O O B-timeRange O O O
+O O O B-condition_description O B-country B-timeRange I-timeRange
+O O O O B-facility B-timeRange
+O O B-timeRange I-timeRange O
+O O O O O B-state
+O O B-timeRange O O
+O O O B-condition_description B-timeRange
+O O O O O O O B-timeRange B-timeRange
+O O O O O O B-city O B-timeRange
+O O O O O B-state B-spatial_relation
+O O B-timeRange O O O B-state
+O O B-rating_unit O B-condition_description
+O O O O O O O O O O O B-state I-state
+O O O O B-timeRange O B-country
+O O O O O O B-city B-timeRange
+O O O O O O B-timeRange I-timeRange I-timeRange O O B-timeRange
+O O O B-condition_description O B-timeRange
+O B-timeRange I-timeRange
+O O O O I-movie_name O O B-condition_description
+O O O B-facility B-timeRange
+O O O O O B-city I-city O B-timeRange
+O O O O O B-city I-city
+O O O O B-object_type B-timeRange
+O O B-condition_description
+O O O O B-condition_description O B-state
+O B-spatial_relation B-timeRange I-timeRange
+O O B-condition_description O O
+O B-condition_temperature O O O B-city B-state B-timeRange
+B-state O O O B-timeRange
+O O O B-condition_description
+O O O O O B-timeRange I-timeRange
+O B-condition_description O O O
+O O O O B-city
+O O O O B-facility
+O O O B-spatial_relation B-condition_description O
+O O O O O O B-timeRange I-timeRange O B-city
+O O O B-playlist I-served_dish
+O O O O O O B-country
+O O O O O B-condition_temperature B-timeRange
+O O O O O B-state
+O O O B-city I-city O
+O B-movie_name I-served_dish O O O O B-timeRange
+O O O O B-spatial_relation
+O O B-state
+O O O O O O B-city B-timeRange I-timeRange
+O O B-movie_name I-movie_name
+O O O O B-timeRange
+O O O O B-timeRange O B-timeRange O B-city B-timeRange
+O O O O O O I-timeRange O B-city
+O O O B-condition_description B-timeRange
+O O O O O O O B-facility B-timeRange
+O O O B-condition_description O B-current_location O B-state O O B-timeRange I-timeRange I-timeRange
+O O O O O B-country
+O B-condition_description O O O O B-city B-timeRange
+O O O O B-condition_description O O B-timeRange
+O B-city B-timeRange I-timeRange
+O O O O O B-timeRange I-timeRange O B-city
+O O O O O B-condition_description O O I-spatial_relation
+B-country O O
+O O O O O O O B-timeRange
+O B-condition_description O O O B-city I-city B-timeRange I-timeRange
+O O O B-timeRange I-timeRange B-timeRange
+O O O O O O B-timeRange
+O O O O B-timeRange
+O O O B-facility
+O O O B-state
+O O O O O O B-timeRange
+O O O B-entity_name I-entity_name O O O O B-city B-state B-timeRange I-timeRange
+O O O O O O B-timeRange I-timeRange
+O B-timeRange I-timeRange
+O O O O O B-city B-state B-timeRange
+O O O O O O O B-state I-state I-state O B-timeRange
+O O I-object_name O O O O O B-timeRange I-timeRange O I-timeRange
+O O B-condition_description O B-city B-state B-timeRange
+O O O B-condition_description B-timeRange
+O O O O O B-state O B-timeRange
+O O O O O O O O O O O O B-timeRange
+O O O O O O B-condition_description
+O O B-condition_description O B-timeRange
+O O O O B-city
+O O O I-timeRange I-timeRange O
+O O O B-condition_description O O O O B-timeRange
+O O O O O B-state
+O O O O B-spatial_relation O B-timeRange
+O O O O O B-spatial_relation B-timeRange
+O O O O O B-country
+O O O O O B-state
+O O B-timeRange O B-timeRange O O B-condition_description
+O B-condition_temperature O O O B-country O B-timeRange I-timeRange
+O O O B-timeRange O
+O O B-city I-poi I-poi
+O O B-condition_description O
+O O O O O B-country I-country
+O B-spatial_relation B-timeRange I-timeRange I-timeRange
+B-timeRange O O
+O O B-condition_description O B-city B-timeRange
+O O O O B-condition_description B-timeRange
+O O O O B-spatial_relation
+O O O O O O B-timeRange
+O O O B-condition_description O B-geographic_poi I-geographic_poi I-geographic_poi B-timeRange I-timeRange
+O O O O O O I-spatial_relation O O O B-timeRange I-timeRange I-timeRange
+O O O O O B-city B-state O B-timeRange
+O O O O O B-city
+O O O O O O O B-timeRange O B-location_name
+O O O O O B-timeRange I-timeRange
+O O O O B-timeRange I-timeRange O B-timeRange
+O O O O O O O B-spatial_relation B-state B-timeRange
+O O B-rating_unit O B-condition_description O O O
+O O O B-timeRange O O
+O O O B-condition_temperature B-timeRange
+O O B-timeRange
+O O O B-timeRange O O B-city
+O O O O O O B-state
+O O O B-timeRange O
+O O O B-timeRange O O O B-city I-city
+O O O O O B-country
+O O O O B-facility O O O O B-timeRange
+O B-condition_temperature O O O B-country
+B-timeRange I-timeRange O O O O O
+O O O B-timeRange O B-city I-city B-timeRange
+O O O O O O O B-timeRange
+O O O O O B-city
+O O O O O O O B-timeRange
+O O B-condition_description B-timeRange
+O B-condition_description O B-country
+O O O O O O O B-timeRange O B-timeRange I-timeRange
+O O B-poi I-poi
+O O B-timeRange
+O B-condition_temperature O O B-timeRange O B-state I-state I-timeRange I-timeRange
+O O B-timeRange O O B-timeRange
+O O B-timeRange
+O O O O B-timeRange I-timeRange
+O O O B-timeRange O B-city I-city
+O B-timeRange I-timeRange B-city B-state
+O O O B-condition_temperature O O O O O O O B-timeRange I-timeRange B-spatial_relation
+O O O O O O O O O B-city O I-timeRange
+O O O O O B-timeRange
+O O B-condition_description O B-timeRange
+O B-condition_temperature O O O O B-country
+O O O O O O O O B-city B-country
+O O O O O O O B-timeRange
+O O O B-condition_description O O B-city O I-timeRange
+O O O B-condition_description O B-city B-timeRange O O O O B-condition_description
+O O O O O B-state
+O O O O O O O B-timeRange
+O O B-condition_description O O B-timeRange
+O O O O O O O O B-timeRange
+O O B-condition_description O B-city O
+O O O O O O O B-city
+O O O O B-timeRange O B-country
+O O O B-condition_description O B-timeRange
+O O B-condition_description O
+O O O O B-object_type B-timeRange
+O O O O O O B-country
+O O O O O O B-condition_description
+O O B-condition_description O O O B-timeRange
+O O O O O O B-condition_description O B-timeRange
+O O O O O O I-movie_name O O B-timeRange
+O O O O B-facility B-timeRange
+O O O B-timeRange
+O O O B-served_dish O O O O O O O B-timeRange
+O O O B-timeRange B-timeRange
+O O B-condition_description B-timeRange
+O O B-timeRange I-timeRange
+O O O O O B-city B-country
+O O O O B-timeRange O B-timeRange
+O B-object_name I-object_name
+O O O O O O B-timeRange I-timeRange I-timeRange I-timeRange
+O O O O O B-timeRange
+O O O B-movie_name I-movie_name I-movie_name I-movie_name
+O O O I-object_name
+O O O O O O O O O B-condition_description O B-city
+O O O B-timeRange B-timeRange O
+O O B-condition_temperature B-timeRange O B-timeRange
+O B-timeRange O O
+O O O B-timeRange O B-city I-city B-current_location B-timeRange
+O O O B-condition_description O O
+O O O B-condition_description O
+O O O B-timeRange O B-city I-city O O
+O O O O O 00p O
+O O O O I-object_name
+O O O O B-facility O O B-object_type B-timeRange
+O O O O O O O O O B-timeRange
+O O O O O B-condition_description O O B-timeRange
+O O B-condition_temperature O O B-served_dish O I-served_dish I-served_dish I-served_dish I-movie_name B-timeRange
+O O O B-movie_name I-movie_name
+O O B-timeRange I-timeRange I-timeRange
+O O O B-current_location O O B-city
+O O O B-condition_description
+O O O O O O B-condition_description B-timeRange
+O O B-condition_description B-timeRange
+O O O B-condition_description O B-timeRange
+O O O O O O B-timeRange O B-timeRange I-timeRange O B-city B-timeRange
+O O O O O B-state
+O O O O B-facility B-timeRange
+O O O O O B-country
+O O O O B-condition_description O
+O O O O O O B-timeRange
+O O O B-timeRange B-timeRange
+O O B-timeRange
+O O O B-timeRange B-timeRange O B-city
+O O O O O O O B-city B-timeRange B-timeRange
+O O O B-condition_description O O B-timeRange
+O O O B-movie_name I-movie_name B-timeRange
+O O O O O O O B-timeRange
+O O B-timeRange O
+O O O B-condition_description B-timeRange I-timeRange
+O O O O O O B-timeRange I-timeRange
+O O B-timeRange
+O O O O O O O B-timeRange I-timeRange B-state
+O B-timeRange O O O B-condition_description
+O O B-spatial_relation B-timeRange I-timeRange I-timeRange B-spatial_relation B-timeRange
+O O O B-condition_temperature O O B-timeRange
+O O O O O B-city B-country I-country
+O O O B-condition_temperature O B-city I-city B-state B-timeRange
+O O O B-condition_description O B-timeRange
+B-condition_description O B-city
+O O O O B-timeRange O O B-city I-city I-city
+O O O O O B-condition_description
+O O B-condition_description B-timeRange
+O O O O O B-condition_description
+O O O O O O B-timeRange O B-timeRange
+O O O B-condition_description B-timeRange O 0 I-timeRange
+O O O B-condition_description B-timeRange
+O O O O O O B-condition_description
+O O O O B-timeRange I-timeRange O B-timeRange
+O B-condition_temperature O O B-city O B-timeRange
+O O O B-condition_description O
+O O O O O O O O B-country
+O O O B-timeRange I-timeRange I-timeRange
+O O O O O O B-timeRange
+O O O O B-facility
+O B-timeRange B-timeRange I-country I-timeRange
+B-timeRange I-timeRange O
+O O O O B-country
+O O O O O B-city B-state I-state B-timeRange
+O O O O O B-timeRange O B-city
+O O O O O B-timeRange I-timeRange O B-country B-country
+O O O O O O B-timeRange O B-city I-city O B-city B-timeRange
+O O O O O O B-timeRange I-timeRange I-timeRange B-spatial_relation B-timeRange I-timeRange
+O O O O O O O O O B-timeRange I-timeRange I-timeRange O
+O O O O O O B-facility B-timeRange
+O O O O O O O B-city B-timeRange
+O B-condition_temperature O O B-timeRange I-timeRange B-spatial_relation B-poi O B-timeRange I-timeRange
+O O O O O O B-timeRange I-timeRange
+O O O O B-condition_description B-timeRange
+O O O O O B-city
+O O O O O O O B-timeRange I-timeRange I-timeRange O B-country
+O O O O B-timeRange I-timeRange B-timeRange
+O B-condition_temperature O O O O I-timeRange O B-city
+O O O B-facility B-timeRange
+O B-condition_temperature O O B-condition_description
+O O O O B-condition_description O B-country B-timeRange
+O O B-timeRange O B-state I-state O
+O B-condition_description O O B-condition_description O O B-timeRange I-timeRange I-timeRange
+O O O O O O B-condition_temperature B-city
+O O B-rating_unit O B-condition_description O O
+O O O O O O O O B-condition_description
+O O O O O O B-city I-city I-city B-timeRange
+O O O O B-timeRange O B-timeRange O O B-timeRange
+O B-condition_description O O O B-country B-timeRange
+O O O O O O 30am
+O O O O O O O B-timeRange
+B-condition_description B-timeRange
+O O O O B-condition_description O I-movie_name
+O O O O O B-state I-state O B-timeRange
+O O O O B-condition_description B-timeRange
+O O B-poi O
+O O O O O O O O B-timeRange
+O O O B-country
+O O O O B-served_dish O O
+O O O O O O O B-timeRange
+B-timeRange O O B-condition_temperature O O O O O O O O B-timeRange O O
+O O O O B-served_dish B-timeRange
+O O O B-condition_temperature B-timeRange
+O O O B-condition_description
+O O O O O B-state I-city B-timeRange
+O O O O B-condition_description O B-city O B-timeRange
+O O B-condition_description O B-state I-city B-timeRange
+O O O O O O B-timeRange O B-city I-city I-city
+O O B-condition_description O B-timeRange
+O O O O O O O B-timeRange I-timeRange B-timeRange O B-poi
+O O B-timeRange O O O B-city B-state
+O O O O O O B-facility B-timeRange
+O O O O B-condition_description O O B-timeRange
+O O O B-condition_description O B-timeRange
+O O O O B-timeRange
+O O O O O O B-timeRange O B-state B-state I-state
+O O O B-condition_description O O I-spatial_relation
+O O O O O O B-condition_description O B-timeRange
+O O O O O B-city B-state
+B-timeRange O O O O
+O B-condition_temperature O O
+O O O O O O O O B-timeRange
+O O O O B-condition_description B-timeRange I-timeRange
+O O B-condition_temperature B-timeRange O O O B-timeRange
+O O O B-condition_description O B-timeRange
+O O O O O B-condition_temperature B-timeRange
+O O B-timeRange O
+O O O B-condition_description O O I-spatial_relation I-spatial_relation O O B-timeRange I-timeRange
+B-country B-current_location O O
+O O O O O B-spatial_relation O I-spatial_relation
+O O B-condition_description O O O B-city
+O O O O O B-city B-timeRange I-timeRange
+O O O B-condition_description O O B-timeRange
+O O O O O B-timeRange
+O O O O O B-condition_description B-timeRange
+O O O O B-timeRange
+O O B-condition_description O O O O I-timeRange
+O O O O O B-condition_description O B-timeRange
+B-timeRange I-timeRange I-timeRange B-timeRange O
+O O B-city
+O O O B-current_location O O O I-spatial_relation
+O O O O B-city B-state
+O O B-condition_description O B-timeRange I-timeRange
+O O O O B-timeRange O B-city I-city
+O O B-timeRange I-timeRange
+O O B-condition_description O O O O B-timeRange
+O O O B-timeRange B-timeRange O
+O O B-city B-timeRange I-timeRange O
+O O O B-facility
+O B-timeRange I-timeRange O B-city I-city B-state
+O O O O O O B-city
+O B-condition_temperature O O B-timeRange
+O B-condition_description O O
+O B-condition_description O O O O B-facility
+B-city B-state O O O
+O O O O B-country O B-timeRange
+O O O O O B-state O O B-timeRange I-timeRange I-timeRange
+O O O O B-city
+O O O O B-facility B-timeRange
+O O O O B-condition_description B-timeRange
+O O O O O O O B-timeRange I-timeRange
+O O B-rating_unit O B-condition_description
+O B-condition_temperature O O O B-timeRange O B-timeRange
+O O O O O O B-timeRange
+O B-condition_temperature O O O B-timeRange
+B-condition_description B-timeRange I-timeRange
+O O O O O B-city O
+O O B-condition_temperature B-condition_description
+O O O B-condition_description O O O
+O O O O O O O B-timeRange
+O O O B-current_location O O O B-timeRange O B-timeRange
+O O O O O B-timeRange
+O O O O B-timeRange O B-timeRange O B-country
+O O O O O B-state
+B-current_location O O O B-city I-poi
+O O O O B-facility
+O O O O B-timeRange I-timeRange B-spatial_relation B-poi B-timeRange
+O O B-timeRange B-timeRange
+O O B-rating_unit O B-country
+O O B-condition_description O O O O
+O O O B-condition_description O O O B-timeRange
+O O O B-current_location O B-timeRange
+O O O O O O B-city
+O O B-timeRange O O O B-condition_description
+O O O O B-timeRange O B-country
+O O B-city B-country
+B-timeRange O O B-city
+O O O B-current_location B-condition_description O O B-city I-city
+O O O O O O O B-country O
+O O O B-timeRange O B-state O B-state I-state B-timeRange
+O O O O O B-state I-state B-timeRange
+O O O B-facility B-timeRange
+O B-timeRange I-timeRange B-timeRange I-timeRange I-timeRange
+O O O O O O O B-timeRange
+O O O O O O B-timeRange
+O O O B-condition_temperature O O O O O B-timeRange
+O O O O O O B-condition_description B-timeRange
+O O O O O O B-condition_description O B-timeRange
+O O B-condition_description O O O B-current_location B-condition_description
+O O O O O B-poi
+O O O O O B-timeRange I-timeRange
+O O O O O B-condition_description
+O O O O B-facility B-timeRange
+O B-condition_temperature O O O B-timeRange I-timeRange
+O O O B-condition_temperature O O B-timeRange O B-city I-city B-state O O B-timeRange I-timeRange I-timeRange
+O O O O O O B-city B-timeRange
+O O O O O O O O B-state
+O O O O B-timeRange
+O O O O I-object_name
+O O B-condition_description B-timeRange
+O O O O O B-timeRange
+O O O O O O O O B-country
+O O O O O B-condition_description B-timeRange
+O O O O B-condition_temperature B-timeRange I-timeRange
+O O O O O I-timeRange I-timeRange O B-city O
+O O O O O B-city B-country
+B-country O
+O O B-rating_unit O B-condition_description O B-city O
+O O O O O B-city B-state
+B-rating_unit O B-city B-country
+O O O O O O O B-country I-country O B-timeRange
+O O O B-condition_description O B-timeRange
+O O O O O B-country
+O O O O O B-state I-country
+O B-timeRange I-timeRange O B-city I-city
+O O B-condition_description
+O O O O O B-timeRange
+O O O B-timeRange
+O O O B-country O O
+O O O O O B-country
+O B-timeRange
+O O O O O O B-poi B-timeRange
+O O O B-condition_description O O B-timeRange
+O O O O O B-city B-timeRange I-timeRange
+O O O O O O B-timeRange I-timeRange O B-country
+O O O B-timeRange O B-timeRange I-timeRange B-current_location B-timeRange
+O B-condition_temperature O O O O B-timeRange
+O O B-condition_description O B-state B-timeRange
+O O O B-timeRange O
+O O O B-current_location O B-timeRange
+O O O O B-timeRange I-movie_name B-timeRange O B-city
+O O O O O B-country I-country
+O O O B-condition_description O O B-city
+O O O O B-movie_name I-movie_name O B-timeRange
+O O O B-movie_name I-movie_name B-timeRange
+O O O O O O O O O O O O O B-timeRange
+O O O O O O O O B-timeRange
+O O O O O O O B-timeRange I-timeRange
+O O O O B-city B-timeRange
+O O O B-condition_description O B-timeRange O O O O O O B-condition_description B-timeRange
+O O O O O O B-city
+O B-timeRange I-timeRange B-current_location B-timeRange
+O O O O I-movie_name I-movie_name B-timeRange
+O O B-condition_description O O O B-timeRange
+O O O O B-timeRange O B-timeRange I-timeRange O B-city B-timeRange
+O O O O I-movie_name B-timeRange
+O O O B-timeRange O
+O O O O O O B-timeRange O B-city I-city B-current_location
+O O O O B-timeRange I-timeRange
+O O B-city I-city B-state
+O O B-rating_unit O B-condition_description O O O B-timeRange
+O O O B-condition_description O B-poi I-city
+O O O O B-city I-city
+O O O B-condition_description B-condition_description O O O I-spatial_relation B-timeRange
+O B-condition_temperature O O B-timeRange O B-poi O B-timeRange I-timeRange
+O O B-condition_description B-timeRange I-timeRange I-timeRange
+O O B-condition_description B-timeRange
+O O O O B-facility
+O O O B-condition_description O
+O O O O B-condition_description O B-timeRange B-timeRange I-timeRange
+O O O O O O O B-country
+O O O O O O O B-timeRange
+B-city O O O B-timeRange I-timeRange
+O O O O O O B-timeRange
+O O B-timeRange B-timeRange O O B-state B-timeRange I-timeRange
+O O O O O O O B-timeRange
+O O O O B-condition_description O O O B-timeRange
+O O O O O B-city B-timeRange I-timeRange
+O B-timeRange B-timeRange I-timeRange
+O O O O O O B-condition_description O B-timeRange
+O O O O B-facility
+O B-condition_temperature O O O O B-timeRange I-timeRange
+O O O O O B-timeRange O B-city I-city
+O O I-timeRange O O
+O O O O O B-country
+O O O O O B-timeRange I-movie_name
+O O O O B-condition_description B-timeRange I-timeRange
+O O B-timeRange I-timeRange I-timeRange O O B-city B-timeRange
+O O O O B-country I-country
+O O O B-entity_name I-movie_name B-timeRange I-timeRange
+O B-condition_temperature O O O B-city B-timeRange O B-timeRange
+O O O O B-current_location O
+O O O O B-timeRange O B-timeRange I-timeRange
+O O O O O B-condition_description
+O B-timeRange O O B-timeRange O O B-facility
+O O O O B-timeRange I-timeRange
+O O O O B-timeRange O B-timeRange I-timeRange B-state I-state B-timeRange
+O O O O B-condition_description O B-city B-timeRange
+O O O O B-condition_description
+O O O B-condition_temperature O B-timeRange I-timeRange
+O O O O O O O B-timeRange O
+O B-timeRange O O B-city
+O O O B-timeRange I-timeRange
+O O O O B-facility O O B-timeRange
+O B-condition_temperature O O O I-timeRange B-current_location O B-state
+O O B-condition_description O B-city I-city B-timeRange I-timeRange
+O O O O O O B-timeRange I-timeRange B-timeRange I-timeRange
+O O O O B-timeRange O B-city I-city B-country B-timeRange
+O O O O O B-current_location O O B-city
+O O O B-condition_description O O O
+O O O O B-city
+O B-timeRange O O B-timeRange O O B-facility
+O O O O O B-city
+O O O O O O B-timeRange O B-country
+O O B-movie_name I-movie_name I-movie_name O O I-movie_name B-timeRange I-timeRange
+O O O O B-facility O B-timeRange
+O O O O 0 I-timeRange B-timeRange
+O O O B-condition_description O B-timeRange
+O B-timeRange I-timeRange O B-condition_description O B-city I-city O O I-timeRange
+O O O O B-country
+O O O O O B-city B-timeRange
+O O O O B-state
+O O O O O O B-city B-state
+O O O B-condition_temperature B-timeRange
+O O B-condition_description O O B-timeRange
+O O O O O O O B-city B-country I-country B-timeRange
+O O O O B-poi
+O O O O O O B-timeRange I-timeRange I-timeRange
+O O O B-condition_description O B-city B-timeRange
+O O O O O O O O O B-state I-state B-timeRange I-timeRange
+O O O B-condition_description O I-timeRange
+O O O O O O B-timeRange I-timeRange
+O O O B-timeRange O O B-timeRange
+O O O O O B-condition_temperature O B-timeRange I-timeRange
+O O O B-timeRange I-timeRange B-timeRange I-timeRange O
+O O O O B-timeRange O B-city I-city B-city B-timeRange B-timeRange
+O B-condition_temperature O O B-condition_description O B-state
+O O O B-condition_temperature B-timeRange
+O O O O O O O O B-timeRange I-timeRange O B-city
+O O O O O O O O B-location_name I-location_name B-timeRange
+O B-condition_temperature O O O B-timeRange
+O O O O O B-city B-country
+O O O B-condition_description B-condition_temperature O B-city B-state
+O O O B-condition_description B-timeRange
+O O O O O O B-timeRange
+O O O O O O B-city
+O O O O B-condition_description B-timeRange
+O O O O O O B-city
+O O O O O B-city B-timeRange
+O O O O O B-timeRange
+O O O O B-condition_description O B-city I-city B-timeRange I-timeRange
+O O O O O O B-state
+O B-timeRange I-timeRange B-spatial_relation B-poi I-timeRange
+O O O B-timeRange I-timeRange
+O O B-timeRange O
+B-timeRange I-timeRange O O
+O O O B-timeRange
+O B-timeRange O O O O
+O O B-timeRange I-timeRange
+O O B-condition_temperature B-timeRange
+O O O O O B-city
+O O O O O B-state O B-timeRange
+O O O O O O B-timeRange
+O O O O O O O B-condition_description O O B-city I-city B-state
+O O B-condition_description O B-state O B-timeRange
+O O O O O B-timeRange I-timeRange I-timeRange
+O B-timeRange I-timeRange B-state I-state I-state
+O O O B-condition_description O O B-timeRange
+O O B-condition_description O O
+O B-timeRange I-timeRange
+O O O B-condition_description O O B-timeRange
+O O O O O B-timeRange
+O O O B-object_select O
+O O O O B-condition_temperature O B-city B-country
+O O O B-condition_temperature O B-timeRange I-timeRange I-timeRange
+O O B-city I-city
+B-timeRange O O O O
+O O O O O B-timeRange I-timeRange
+O O O O B-timeRange O B-city I-city I-city
+O O O B-timeRange O O
+O O O B-timeRange O B-timeRange I-timeRange O B-poi B-timeRange
+O O O O O B-timeRange
+O O O O O O B-timeRange I-timeRange
+O O B-condition_description O B-timeRange B-timeRange I-timeRange
+O O O O B-timeRange O B-timeRange I-timeRange O B-city B-timeRange
+O O O O O B-state I-state
+O O O O O B-timeRange
+O O O O O B-timeRange
+O O B-condition_description O O O O B-timeRange
+O B-city I-city O O B-condition_description O B-timeRange O 0 I-timeRange
+O O O O B-timeRange
+O O O B-condition_description O O B-timeRange
+O B-spatial_relation B-timeRange I-timeRange I-timeRange
+O O O O O O B-condition_temperature B-timeRange
+O O O O B-facility B-timeRange I-timeRange
+O B-country B-timeRange I-timeRange I-timeRange
+O O O B-condition_description
+O O O O O B-city I-city
+O O O O B-timeRange
+O O O O O B-timeRange I-timeRange
+O O O O O B-timeRange
+O O O O O O O O O B-condition_temperature
+O O O O O O B-city B-country O B-timeRange
+O O O B-condition_description
+O O O B-condition_description
+O O O B-timeRange
+O O B-condition_description B-condition_description
+O O O O O O B-timeRange
+O O O O O O O B-city B-timeRange O
+O B-timeRange B-condition_description
+O O O O B-condition_description B-timeRange
+O O O O O B-city O B-timeRange I-timeRange B-timeRange
+O O O B-current_location O O B-state I-state
+O O O O B-condition_description O B-timeRange
+O O O O O O O O B-timeRange
+O O O B-condition_description O I-timeRange
+O B-timeRange O O
+O O O O B-timeRange O B-city I-city
+O O O O O B-timeRange I-timeRange I-timeRange
+B-timeRange I-timeRange I-timeRange O O O O
+O O O O B-condition_description O O O
+O O O O O B-country I-country
+O O O O B-condition_description O O B-state
+O O O O B-timeRange O B-state
+O O O B-condition_description O
+O O B-condition_description O B-timeRange
+O O O O B-condition_description O B-timeRange
+O O O O O O O O O B-country O
+O O O O O O O B-timeRange
+O O O B-timeRange
+O O O O B-condition_description B-timeRange I-timeRange I-timeRange I-timeRange
+O O O O O O O 0 O O B-timeRange
+O O O O B-country
+O O B-condition_description O O O O B-city B-timeRange I-timeRange
+O O O O O O O O B-condition_description O B-condition_description O O O B-state
+O O O O O O B-city I-city B-timeRange
+O O O O O B-condition_description O B-city O I-timeRange
+O O O O O O O O B-timeRange I-timeRange I-timeRange
+O O O O O B-condition_temperature B-timeRange
+O O O O B-timeRange B-timeRange
+O O O O O O B-state I-state B-timeRange I-timeRange
+O O O O O O B-city B-timeRange
+O O O B-timeRange O B-state I-state
+O O B-condition_description O O O O
+O B-city O O O O O O O B-timeRange I-timeRange I-timeRange
+O O O B-city B-state
+O O B-rating_unit O B-condition_description O O B-condition_description B-timeRange
+O O B-condition_description O B-timeRange
+O O O O O O B-city I-city O B-timeRange
+O O O O B-condition_description O B-timeRange O B-timeRange
+O O O O O O B-country
+O B-condition_description O O B-city B-timeRange
+O O O B-condition_description B-timeRange I-timeRange I-timeRange
+O O O O O O B-city B-timeRange I-timeRange
+O O B-condition_description B-timeRange
+O O O B-current_location O O B-city I-city
+O O O O B-condition_description O B-timeRange I-timeRange O B-poi
+O O O O O O O O O O O B-timeRange B-timeRange O B-city I-city B-state
+O O O O O O B-city B-timeRange
+O O O B-condition_description B-timeRange
+O O O B-facility O O O O B-city B-timeRange
+O O O B-timeRange O B-city B-country B-timeRange I-timeRange
+O O O B-condition_temperature O B-poi
+O O O O O O O B-country
+O O O O O O B-timeRange
+O O O O B-timeRange
+O O O O B-city B-state O B-timeRange I-timeRange
+O O O O O O O I-timeRange I-timeRange I-timeRange
+O O O O B-timeRange
+O O B-condition_description O O B-timeRange
+O O O O O B-facility B-timeRange
+O O O O O O O B-geographic_poi I-geographic_poi I-geographic_poi
+O O O B-condition_description O O B-timeRange
+O O O O O B-city B-timeRange
+O O B-condition_description O B-timeRange
+O O O B-condition_description O B-timeRange
+O O O B-timeRange O B-city
+O B-timeRange O B-city B-timeRange
+O O O O O B-timeRange O B-city
+O O O O B-condition_description O B-city B-state O B-timeRange
+O O O B-condition_description B-spatial_relation
+O O O O O B-timeRange I-timeRange O B-state
+O O O O O B-timeRange O B-timeRange
+O O O O B-object_type O B-timeRange
+O O O B-condition_description O B-timeRange
+O O O B-state I-state
+O O O O O B-condition_description O O B-city
+O O O O O O B-timeRange
+O O B-condition_description O B-timeRange
+B-condition_description B-timeRange
+O O O O O B-city B-timeRange I-timeRange
+O O B-condition_description B-timeRange O B-city
+O O O B-timeRange O O B-timeRange O B-city I-city
+O O B-condition_temperature O
+O O O O B-timeRange I-timeRange O B-city B-timeRange
+O B-condition_temperature O O B-timeRange O B-timeRange I-timeRange
+O O B-country I-country O
+O B-city B-state B-timeRange I-timeRange
+O O O B-timeRange O B-timeRange I-timeRange B-current_location
+O O O O O O B-timeRange
+O O O O O O O O O I-timeRange I-timeRange I-timeRange
+O O B-timeRange
+O O O O O O B-timeRange I-timeRange
+O O O O O O O B-timeRange B-timeRange I-timeRange I-timeRange
+O O O O B-condition_description O
+O B-spatial_relation B-country B-timeRange B-timeRange I-timeRange
+O B-spatial_relation O O B-condition_description O O O B-spatial_relation
+O O O O O B-city B-timeRange
+O O O O O O O B-city
+O B-timeRange I-timeRange O
+O O O B-condition_description B-timeRange I-timeRange O O O O O B-country
+O O B-timeRange O O
+O O O O B-condition_description O B-state B-geographic_poi
+B-country O O
+O O B-condition_temperature O O O B-timeRange I-timeRange I-timeRange I-timeRange I-timeRange
+O B-condition_temperature O O B-condition_description O B-timeRange
+O O B-city O O B-timeRange
+O O O O O O B-condition_description O O B-timeRange
+O O O B-condition_description O O O O B-state I-state
+O O O B-timeRange B-timeRange O O
+O O B-condition_description O B-condition_description B-spatial_relation
+B-city I-city I-city O B-timeRange
+O O O O B-timeRange I-timeRange B-spatial_relation
+O O O O B-country
+O O O B-movie_name B-condition_description O O B-timeRange
+O O B-condition_description O B-timeRange
+O B-condition_temperature O O O B-timeRange
+O O O O B-timeRange B-timeRange
+O O B-condition_description O O B-timeRange
+O O O B-movie_name B-timeRange
+O B-condition_temperature O O O B-city B-timeRange I-timeRange O B-timeRange I-timeRange
+O B-condition_temperature O O O B-timeRange
+O O O O O B-timeRange
+O O O B-condition_description O B-state
+O O B-condition_temperature O B-state O B-timeRange
+O O O O O O O B-timeRange
+O O O B-movie_name I-movie_name B-timeRange I-timeRange
+B-timeRange I-timeRange O O B-city B-state
+O O O O B-facility B-timeRange
+O O O B-object_name
+O O O O B-condition_description O B-timeRange I-timeRange
+O O O B-condition_temperature O B-city
+O O O B-object_name I-object_name
+O O B-timeRange O
+O O O O O B-timeRange
+O O O B-condition_description B-timeRange
+O O B-rating_unit O B-condition_description O O O B-timeRange
+O B-condition_temperature O O O O I-timeRange
+O O O O O O O B-timeRange
+O O O O O B-timeRange
+O O O O O O O O B-timeRange
+O B-condition_description O
+O O O B-condition_temperature O O B-timeRange
+O O B-city I-city O B-timeRange
+O O O O B-timeRange B-timeRange O
+O O O B-city O B-poi
+O O O B-condition_description B-timeRange I-timeRange
+O O O O O B-city B-timeRange
+O O O O O O O B-city O B-timeRange B-timeRange
+O O O O O O O O O B-timeRange O O B-timeRange I-timeRange I-timeRange
+O O O B-timeRange O
+O O O O B-condition_temperature O B-timeRange I-timeRange B-timeRange
+O B-condition_temperature O O O B-timeRange
+O O O O O O B-facility O O B-timeRange
+B-city O B-city O O
+O O O O O O O O B-timeRange I-timeRange
+O O O O O B-city
+O O O O B-condition_temperature O O O I-movie_name B-spatial_relation B-timeRange
+O O O O B-condition_description B-timeRange
+O O O O B-condition_description O
+O O B-condition_description O B-condition_description O O O B-timeRange
+O O O B-condition_description O
+O O B-city I-city I-city
+O O O O O O B-country I-country
+O O B-condition_description
+O O O O B-city B-timeRange
+O O O O O O B-city B-timeRange I-timeRange I-timeRange
+O O O O O B-state
+O O O B-condition_temperature O O B-country
+O O O O O O B-timeRange O
+O O O B-spatial_relation
+O O O O O B-city O B-city
+O B-condition_temperature O O B-timeRange I-timeRange B-spatial_relation O B-timeRange I-timeRange
+O O O O O O O B-city I-city O B-timeRange
+O O O O B-timeRange
+O O O I-movie_name I-movie_name I-movie_name I-movie_name
+O O O O B-condition_description B-timeRange
+O O O O O O B-timeRange
+O B-state O B-condition_temperature O B-timeRange
+O O O O B-condition_temperature B-timeRange
+O O O O O B-geographic_poi I-country O O B-timeRange
+O O O O B-city I-country
+O B-state O O B-timeRange
+O O O O O B-country
+O O O O O B-object_type
+O O B-timeRange
+O O O O O O B-condition_description B-timeRange
+O O O B-condition_description O O O
+O O B-condition_description O B-timeRange
+O B-spatial_relation B-poi I-poi B-timeRange B-timeRange I-timeRange
+O O B-condition_description O B-timeRange I-timeRange I-timeRange O B-state
+O O O O B-timeRange O B-state B-spatial_relation B-poi B-timeRange
+O O B-spatial_relation B-condition_temperature B-timeRange
+B-timeRange O O
+O O O O O O B-country I-country
+O O O O O B-timeRange
+O O O O O B-timeRange O O B-timeRange
+O O O B-current_location O O
+O O O O O B-city I-city B-timeRange I-timeRange
+O O O O O B-condition_description O B-timeRange
+O O O O B-facility I-served_dish
+O O O O O B-condition_description
+O B-condition_temperature O O O O I-timeRange
+O O O O O O B-city O O B-timeRange I-timeRange O I-timeRange I-timeRange
+O O O B-city O
+O O O O B-condition_description O O O B-timeRange
+O O O B-condition_description O
+O O O B-condition_description O B-timeRange
+O O B-city O O B-timeRange B-timeRange
+O O O O O B-condition_description O
+O O O O O 00am
+O O O O O O B-state
+O O O O O B-timeRange
+O O O O O B-city B-state
+O O O O B-city I-geographic_poi
+O B-timeRange
+O O O O B-timeRange O B-country
+O O O O O O B-timeRange
+O O B-condition_description O O O O I-movie_name
+O O O O B-condition_description O B-city B-timeRange
+O O O O B-timeRange O
+O O O O O O O B-location_name I-location_name B-timeRange
+O O B-timeRange O O O O I-timeRange
+O O O O O O B-timeRange O B-city B-city I-city B-timeRange I-timeRange
+O O O O B-playlist
+O O O O O O O B-timeRange
+B-city O O
+O B-condition_temperature O O O O O O B-timeRange
+O O O O O B-city B-timeRange
+O O O O O B-timeRange I-timeRange
+O O O O O O B-city
+O O O O B-condition_description O O B-timeRange I-timeRange
+O O O O B-condition_temperature O B-timeRange I-timeRange I-timeRange
+O O O O B-timeRange
+O O O O O O B-timeRange O B-city I-city B-country O I-timeRange
+O O O O O B-timeRange
+O O O B-timeRange O
+O O O B-timeRange B-timeRange
+O O O B-condition_description B-timeRange
+O B-condition_temperature O O O
+O O O I-city O O B-timeRange B-timeRange
+O O O O O O O B-city B-country
+O O O O O B-timeRange I-timeRange O
+O O O O B-facility B-timeRange
+O O O O B-condition_description B-timeRange
+O B-condition_temperature O O O O O O B-city B-timeRange
+O B-condition_temperature O O O O B-timeRange
+O O O O O B-state O B-timeRange
+O O B-spatial_relation O O B-timeRange
+O O O B-timeRange O B-timeRange O O
+O O O O B-facility B-timeRange
+O O O B-timeRange B-timeRange O
+O B-city B-timeRange I-timeRange
+O O O O B-timeRange
+O O O B-condition_description B-timeRange I-timeRange I-timeRange
+O O O O O O B-city
+O O B-condition_description O O O B-timeRange
+O O O B-sort O O B-city I-city
+O O O O B-timeRange I-timeRange
+O O O O B-condition_description O O O B-state
+O O O B-timeRange I-timeRange B-state I-timeRange B-timeRange I-timeRange
+O O O B-condition_description O B-timeRange
+O B-timeRange I-timeRange I-timeRange O O
+O O O O O O B-timeRange I-timeRange I-timeRange I-timeRange
+O O O O B-city B-timeRange
+O O O O B-object_type
+O O O B-movie_name I-movie_name O O O I-object_type B-timeRange
+O O O O B-served_dish
+O O O O B-timeRange I-timeRange O
+O O O O B-city I-city I-city
+O O O O O O O B-poi O B-timeRange
+O O O O O B-timeRange
+O O O O B-timeRange
+O O O O O B-city B-timeRange
+O O O O O O O O B-city B-state
+O O O O O O B-geographic_poi I-geographic_poi I-geographic_poi B-timeRange B-timeRange
+O O B-condition_description O B-state I-city
+O O O O B-condition_description B-timeRange
+B-country O O B-timeRange
+O O O O O B-condition_description O
+O O O O O O O B-timeRange I-timeRange
+O O O O O O O O B-city I-city
+O O O O O B-condition_description B-timeRange I-timeRange B-timeRange
+O O O O O O O B-timeRange O B-timeRange
+O O O O O O B-facility O O
+O O O O B-timeRange O B-city
+O O O B-timeRange O O O B-city I-city I-city
+O B-condition_temperature O O O B-timeRange
+O O B-condition_description O B-timeRange
+O B-condition_temperature O O B-condition_description B-timeRange
+B-state I-country I-country O O O
+O O O O B-condition_description O B-city B-state B-timeRange
+O O O B-condition_description O O O B-city B-state B-timeRange
+O O O O B-timeRange
+O O O O O B-condition_description B-timeRange
+O O O O O B-timeRange I-timeRange
+O O O O B-timeRange I-timeRange I-timeRange O B-city I-city
+O O O O O B-city B-country
+O O O O O O O B-timeRange I-timeRange
+O B-condition_temperature O O O B-poi O B-timeRange
+O O B-timeRange O
+O O O O O B-timeRange I-timeRange
+O O B-condition_description O O O
+O O O O O B-timeRange I-timeRange O B-timeRange
+O O B-condition_description B-timeRange
+O O B-condition_description O B-state B-timeRange
+O O O O B-condition_temperature B-condition_description O O O
+O O O B-condition_temperature O B-spatial_relation
+O O O O B-condition_description B-timeRange I-timeRange
+O O O O O O B-timeRange I-timeRange
+O O O B-timeRange B-timeRange O
+O B-condition_temperature O B-city B-timeRange
+O O B-condition_description O B-timeRange O
+O B-condition_temperature O O B-timeRange I-timeRange B-country O B-timeRange I-timeRange
+O O O O O O O B-state I-geographic_poi
+O O O O O O B-country
+O O O B-timeRange
+O O O O O O O O O B-city
+O O O O B-condition_temperature B-timeRange
+O O O O O O B-timeRange O B-city
+O B-timeRange I-timeRange B-spatial_relation B-city B-state
+O O O B-movie_type
+O O O B-condition_description O B-timeRange O B-state I-state
+O O O O O O O B-country I-country
+O O O O B-city B-timeRange
+O O O O O O B-timeRange I-timeRange I-timeRange O B-country B-timeRange
+O O O O O B-timeRange I-timeRange
+O O O O O B-country I-country
+O B-condition_temperature O O O
+O O O O O O B-city
+O O O O O O B-timeRange
+O O B-condition_description O B-timeRange B-timeRange
+O O B-condition_description O O B-spatial_relation O O B-state B-timeRange
+O O B-country I-country I-country B-timeRange I-timeRange
+O O O O O O O O B-city B-country
+O O O O O O O B-country I-country
+O O O O O O O B-timeRange
+O O B-condition_description O B-timeRange I-timeRange
+O O B-condition_description
+O O O O B-timeRange
+O O O O O O O O O B-timeRange
+O O B-condition_description O O O B-timeRange I-timeRange
+O O O O O O O B-facility
+O O O O O B-city I-city B-timeRange
+O O O O O O O B-timeRange I-timeRange O B-timeRange O O O O B-city I-city
+O O O O O O O B-timeRange
+O O O O O B-condition_description B-timeRange I-timeRange
+O O O O O O O O O O O O I-timeRange I-timeRange
+O O O O O B-city I-city I-city B-timeRange
+O O O B-movie_name O B-timeRange
+O O O O O O O B-timeRange I-timeRange I-timeRange
+O O O O O B-spatial_relation B-timeRange
+O O O O O O O O O O O B-condition_description
+O O B-movie_name I-movie_name
+O O B-country O O O
+O O O O O O O O B-timeRange
+O O O O B-condition_description B-timeRange I-timeRange
+O O O O O B-timeRange I-timeRange I-timeRange I-timeRange B-timeRange I-timeRange I-timeRange
+O O O O O O O B-timeRange
+O O O O O O B-timeRange O B-city I-poi B-spatial_relation B-city B-timeRange B-timeRange
+O O O O O B-timeRange
+O O O B-spatial_relation
+O O O O B-city
+O O B-timeRange
+O O O O O B-condition_temperature O B-state I-state B-timeRange I-timeRange
+O O O B-movie_name I-movie_name I-movie_name B-timeRange
+O O B-condition_description B-timeRange
+O O O O O B-timeRange
+O O O O B-city B-state
+O B-city B-state
+O O O O O O B-timeRange I-timeRange I-timeRange I-timeRange O
+O O O O O O B-state B-state I-state
+O O O O O B-timeRange I-timeRange B-timeRange
+O O O B-condition_description O O O B-city B-timeRange
+O O O O O O B-facility
+O B-spatial_relation B-timeRange B-state
+O O O O O B-timeRange
+O O O B-object_name I-object_name
+O O O O O O B-timeRange O B-city I-city
+O O O O O O B-timeRange O B-city I-city O B-country B-timeRange
+O O O O B-poi
+O B-condition_temperature O O O O B-city O
+O O O O O O B-country
+O B-condition_temperature O O O O O
+O O O O O O O O B-country
+O O O O O B-facility O B-timeRange
+O O B-timeRange O B-city
+O O O B-timeRange
+O O O O O O B-timeRange O B-timeRange I-timeRange B-spatial_relation O B-timeRange
+O O O B-condition_description O O O O B-city O B-timeRange B-timeRange
+O O O O O O B-city
+B-timeRange O O O
+O O O O O B-city O O O O B-timeRange I-timeRange
+O O O B-timeRange I-timeRange O
+O O O O O B-poi
+O O O B-timeRange O O B-timeRange
+O O O O I-object_name
+O O O O O B-condition_temperature O O B-timeRange
+O O B-condition_description O B-condition_description O B-condition_description B-timeRange
+O O O O O B-city O B-state
+O O B-condition_description O B-timeRange
+O O O O B-timeRange
+O B-condition_temperature O O O B-city O B-state
+O O O O O O O B-timeRange B-spatial_relation O
+O O O O B-timeRange I-timeRange
+O O O B-timeRange B-timeRange O
+O O O O O O B-timeRange I-timeRange I-timeRange I-timeRange O B-country
+O O B-condition_description
+O O O O O O B-city B-country O
+O O O O O O O O O B-timeRange B-timeRange
+O O O B-movie_name I-movie_name I-movie_name I-movie_name
+O O O O O B-country O
+O O O O O B-city I-city O B-timeRange
+O O O O O O B-timeRange
+O O O O B-condition_description O B-state
+O O O O O O B-facility O O B-timeRange
+O O O O O O O O O 0 I-timeRange B-timeRange O B-city
+O B-condition_temperature O O O B-timeRange
+O O O O O B-movie_name I-movie_name B-timeRange
+O O O O O B-condition_temperature O O O B-city
+O O O O O O B-timeRange
+O O O B-condition_description B-timeRange
+O O B-city
+O O O O B-condition_description
+O O O O O B-condition_description O O O O B-timeRange
+O O O O O B-poi
+O O O O O O B-timeRange
+O O O O O B-timeRange
+O O O O B-condition_description B-timeRange
+O O O O O B-city B-country I-country
+O O O O O O B-timeRange I-timeRange O B-timeRange I-timeRange
+O O O O O O B-timeRange I-timeRange O
+O O B-city B-timeRange I-timeRange
+O O O O O B-condition_description B-timeRange
+O O O O O B-timeRange
+O O O O B-condition_description O B-timeRange
+O O O O O B-timeRange
+O O O B-condition_description O B-timeRange I-timeRange O
+O O O B-timeRange B-timeRange O
+O O O O O O O B-timeRange O B-city
+O O B-timeRange O O B-timeRange
+O B-condition_description O O B-condition_description B-timeRange
+O B-condition_temperature O O O B-city
+O O B-state O
+O O B-timeRange
+O B-timeRange I-timeRange B-state
+O O O B-condition_description O B-city B-timeRange
+O O O O O O O I-timeRange B-timeRange I-timeRange
+O B-timeRange O B-timeRange
+O O B-city B-timeRange I-timeRange
+O O O O O O O B-timeRange
+O O O O O B-state B-timeRange I-timeRange
+O O O O O B-state O B-timeRange
+O B-condition_temperature O O B-timeRange I-timeRange O B-country I-country O B-timeRange I-timeRange
+O O O O O O B-timeRange I-timeRange
+O O O B-condition_temperature O O B-timeRange
+O O O O O O O O B-timeRange
+O O O O O O B-facility
+O O O O O B-state
+O B-state I-state
+O O O B-condition_temperature B-timeRange O B-timeRange I-timeRange O B-country B-timeRange
+O O O B-condition_description
+O O O O O O B-country I-country
+O B-condition_temperature O O O B-city B-timeRange O B-timeRange
+O O O B-condition_description O
+O O B-state I-state
+O O B-spatial_relation O O B-current_location I-spatial_relation
+O B-timeRange O O B-condition_description B-timeRange
+O O O O O B-timeRange
+O B-condition_temperature O O O B-city B-timeRange I-timeRange O B-timeRange I-timeRange
+O O O O O O B-country O B-timeRange O B-timeRange
+O O O O O O B-timeRange I-timeRange
+O B-condition_temperature O O O O B-state B-timeRange I-timeRange
+O O B-condition_description O O B-timeRange I-timeRange I-timeRange
+O O O O O B-city
+O O O B-condition_description O B-timeRange
+O O O O O O O O B-timeRange O B-state
+O B-condition_temperature O O B-condition_description O B-timeRange
+O O O O B-facility
+O O B-city O O
+O O O O O O B-condition_description O B-timeRange
+O O O O O B-city I-city B-timeRange
